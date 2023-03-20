@@ -1,0 +1,3772 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "USA"
+        },
+        "totalNumberOfPublications": 4710,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -98.5,
+                39.76
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CHN"
+        },
+        "totalNumberOfPublications": 3307,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.39637,
+                30.52047
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "HUN"
+        },
+        "totalNumberOfPublications": 42,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.0,
+                47.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "IRN"
+        },
+        "totalNumberOfPublications": 251,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.0,
+                32.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TWN"
+        },
+        "totalNumberOfPublications": 199,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.0,
+                24.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ITA"
+        },
+        "totalNumberOfPublications": 698,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12.83333,
+                42.83333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "FIN"
+        },
+        "totalNumberOfPublications": 97,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                26.0,
+                64.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MEX"
+        },
+        "totalNumberOfPublications": 100,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -102.0,
+                23.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "AUS"
+        },
+        "totalNumberOfPublications": 546,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                135.0,
+                -25.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GBR"
+        },
+        "totalNumberOfPublications": 1140,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.1140518,
+                56.7861112
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SAU"
+        },
+        "totalNumberOfPublications": 68,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45.0,
+                25.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "POL"
+        },
+        "totalNumberOfPublications": 231,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.0,
+                52.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ROU"
+        },
+        "totalNumberOfPublications": 76,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                25.0,
+                46.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BRA"
+        },
+        "totalNumberOfPublications": 486,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -55.0,
+                -10.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TUR"
+        },
+        "totalNumberOfPublications": 291,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.0,
+                39.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TZA"
+        },
+        "totalNumberOfPublications": 15,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.7878438,
+                -6.5247123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NGA"
+        },
+        "totalNumberOfPublications": 51,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.9999721,
+                9.6000359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "THA"
+        },
+        "totalNumberOfPublications": 68,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.83273,
+                14.8971921
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "IND"
+        },
+        "totalNumberOfPublications": 598,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78.6677428,
+                22.3511148
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "DEU"
+        },
+        "totalNumberOfPublications": 874,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10.4234469,
+                51.0834196
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NLD"
+        },
+        "totalNumberOfPublications": 326,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.541246849406163,
+                52.24764975
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CHE"
+        },
+        "totalNumberOfPublications": 233,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                8.01427,
+                47.00016
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "KOR"
+        },
+        "totalNumberOfPublications": 535,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                127.6961188,
+                36.638392
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "JPN"
+        },
+        "totalNumberOfPublications": 870,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                139.75309,
+                35.68536
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "FRA"
+        },
+        "totalNumberOfPublications": 615,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.0,
+                46.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SWE"
+        },
+        "totalNumberOfPublications": 194,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.0,
+                62.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CAN"
+        },
+        "totalNumberOfPublications": 708,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -113.64258,
+                60.10867
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ISR"
+        },
+        "totalNumberOfPublications": 148,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34.75,
+                31.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GTM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -90.25,
+                15.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "EST"
+        },
+        "totalNumberOfPublications": 12,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                26.0,
+                59.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "DNK"
+        },
+        "totalNumberOfPublications": 192,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10.0,
+                56.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "UGA"
+        },
+        "totalNumberOfPublications": 14,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                32.5,
+                1.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ZAF"
+        },
+        "totalNumberOfPublications": 87,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24.0,
+                -29.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "RUS"
+        },
+        "totalNumberOfPublications": 109,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                100.0,
+                60.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ARG"
+        },
+        "totalNumberOfPublications": 64,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.73918,
+                -32.92616
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PRT"
+        },
+        "totalNumberOfPublications": 106,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -8.13057,
+                39.6945
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MYS"
+        },
+        "totalNumberOfPublications": 71,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                112.5,
+                2.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ARE"
+        },
+        "totalNumberOfPublications": 20,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54.5,
+                23.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ESP"
+        },
+        "totalNumberOfPublications": 522,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.0,
+                40.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "HRV"
+        },
+        "totalNumberOfPublications": 20,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.5,
+                45.16667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PAK"
+        },
+        "totalNumberOfPublications": 64,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                70.0,
+                30.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GEO"
+        },
+        "totalNumberOfPublications": 37,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                43.4999,
+                41.99998
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "AUT"
+        },
+        "totalNumberOfPublications": 112,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.33333,
+                47.33333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SRB"
+        },
+        "totalNumberOfPublications": 21,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.45998,
+                44.81892
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "EGY"
+        },
+        "totalNumberOfPublications": 84,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30.0,
+                27.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SGP"
+        },
+        "totalNumberOfPublications": 83,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.8194992,
+                1.357107
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "LBN"
+        },
+        "totalNumberOfPublications": 22,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.83333,
+                33.83333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NPL"
+        },
+        "totalNumberOfPublications": 10,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                84.0,
+                28.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GRC"
+        },
+        "totalNumberOfPublications": 101,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                22.0,
+                39.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NOR"
+        },
+        "totalNumberOfPublications": 110,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                10.0,
+                62.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BEL"
+        },
+        "totalNumberOfPublications": 135,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.5,
+                50.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CHL"
+        },
+        "totalNumberOfPublications": 67,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -71.0,
+                -30.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "IRQ"
+        },
+        "totalNumberOfPublications": 6,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                44.0,
+                33.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MNE"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.25,
+                42.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CZE"
+        },
+        "totalNumberOfPublications": 75,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14.498345202474496,
+                50.068972450000004
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TUN"
+        },
+        "totalNumberOfPublications": 19,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9.0,
+                34.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "COL"
+        },
+        "totalNumberOfPublications": 68,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72.9088133,
+                4.099917
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NZL"
+        },
+        "totalNumberOfPublications": 86,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                174.0,
+                -42.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "DZA"
+        },
+        "totalNumberOfPublications": 9,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.626289,
+                35.4832655
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SVN"
+        },
+        "totalNumberOfPublications": 20,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.0,
+                46.08333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PER"
+        },
+        "totalNumberOfPublications": 21,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -75.25,
+                -10.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "VNM"
+        },
+        "totalNumberOfPublications": 16,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                108.4265113,
+                13.2904027
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PSE"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.12405077733146,
+                31.65703695
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "KEN"
+        },
+        "totalNumberOfPublications": 8,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                38.0,
+                1.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SEN"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -14.25,
+                14.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MOZ"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.0,
+                -18.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CRI"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -84.0739102,
+                10.2735633
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "VEN"
+        },
+        "totalNumberOfPublications": 5,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -66.0,
+                8.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GAB"
+        },
+        "totalNumberOfPublications": 16,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11.6899699,
+                -0.8999695
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MDA"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28.8371765,
+                47.0153298
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "IRL"
+        },
+        "totalNumberOfPublications": 5,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6.3770047,
+                53.287456
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "KWT"
+        },
+        "totalNumberOfPublications": 9,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47.75,
+                29.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SVK"
+        },
+        "totalNumberOfPublications": 15,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.5,
+                48.66667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ETH"
+        },
+        "totalNumberOfPublications": 20,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                39.5,
+                9.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "AZE"
+        },
+        "totalNumberOfPublications": 9,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                47.7872508,
+                40.3936294
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "VAT"
+        },
+        "totalNumberOfPublications": 13,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12.4528527,
+                41.903411
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "JOR"
+        },
+        "totalNumberOfPublications": 9,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.941628,
+                31.1667049
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BEN"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.2584408,
+                9.5293472
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BGR"
+        },
+        "totalNumberOfPublications": 11,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                25.25,
+                42.66667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PAN"
+        },
+        "totalNumberOfPublications": 30,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -81.1308434,
+                8.559559
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MAR"
+        },
+        "totalNumberOfPublications": 14,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6.0,
+                32.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BLR"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28.0,
+                53.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BGD"
+        },
+        "totalNumberOfPublications": 13,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90.0,
+                24.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "URY"
+        },
+        "totalNumberOfPublications": 5,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -56.0,
+                -33.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ALB"
+        },
+        "totalNumberOfPublications": 5,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.9999619,
+                41.000028
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "UKR"
+        },
+        "totalNumberOfPublications": 10,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34.1586871,
+                44.4970713
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BHR"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                50.55,
+                26.03333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MLT"
+        },
+        "totalNumberOfPublications": 4,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                14.43333,
+                35.91667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "QAT"
+        },
+        "totalNumberOfPublications": 11,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                51.25,
+                25.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GHA"
+        },
+        "totalNumberOfPublications": 15,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.2,
+                8.1
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "LKA"
+        },
+        "totalNumberOfPublications": 7,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80.75,
+                7.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BOL"
+        },
+        "totalNumberOfPublications": 4,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -63.200747899999996,
+                -17.79610615
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ZWE"
+        },
+        "totalNumberOfPublications": 8,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29.75,
+                -19.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "IDN"
+        },
+        "totalNumberOfPublications": 10,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                120.0,
+                -5.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CMR"
+        },
+        "totalNumberOfPublications": 10,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.1535811,
+                4.6125522
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TGO"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.215829,
+                6.130419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "XKX"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.91667,
+                42.58333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SDN"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30.0,
+                16.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ECU"
+        },
+        "totalNumberOfPublications": 8,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -78.25,
+                -1.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "KHM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                104.88919265514961,
+                11.57164495
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BWA"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24.0,
+                -22.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "LUX"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                6.16667,
+                49.75
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BIH"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17.83333,
+                44.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CYP"
+        },
+        "totalNumberOfPublications": 7,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33.0,
+                35.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "KGZ"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                74.724091,
+                41.5089324
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MWI"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                34.0,
+                -13.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PHL"
+        },
+        "totalNumberOfPublications": 6,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122.0,
+                13.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "HTI"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72.3045099,
+                18.552778
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "COD"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                23.5,
+                -2.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "LTU"
+        },
+        "totalNumberOfPublications": 11,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24.0,
+                55.41667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "AGO"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                18.5,
+                -12.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CUB"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -79.5,
+                22.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NIC"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -85.0,
+                13.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "JAM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -77.37122,
+                18.17717
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MMR"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                93.96595,
+                18.94898
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BRN"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.66667,
+                4.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "LVA"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                25.0,
+                57.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "LAO"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                103.378253,
+                20.0171109
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CIV"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5.5679458,
+                7.9897371
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "OMN"
+        },
+        "totalNumberOfPublications": 3,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                57.0,
+                21.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TCD"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.0156172,
+                15.6134137
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MCO"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.41903,
+                43.73141
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "TTO"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -60.9821067,
+                10.8677845
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BFA"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.66667,
+                12.5
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "RWA"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30.0,
+                -2.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "NAM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17.0,
+                -22.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PRK"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                127.0,
+                40.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ISL"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -18.0,
+                65.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "COG"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.6419155,
+                -0.7264327
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SLE"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -11.8400269,
+                8.6400349
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "SYR"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                38.0,
+                35.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ZMB"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                28.5,
+                -14.33333
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MNG"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                105.0,
+                46.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GRD"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.66667,
+                12.11667
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "HKG"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                114.16667,
+                22.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "VGB"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.5661642,
+                18.4024395
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "ARM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45.0,
+                40.25
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "GUM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                144.77656,
+                13.50055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "BRB"
+        },
+        "totalNumberOfPublications": 2,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -59.55165,
+                13.16453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "DOM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -70.3028026,
+                19.0974031
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "KAZ"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                68.0,
+                48.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "CAF"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.9981227,
+                7.0323598
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "WSM"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -172.12005,
+                -13.7693895
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "MKD"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.7168387,
+                41.6171214
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "",
+            "city": "",
+            "country": "PNG"
+        },
+        "totalNumberOfPublications": 1,
+        "numberOfPublicationsByYear": [
+            {
+                "year": 2000,
+                "numberOfPublications": 40
+            },
+            {
+                "year": 2010,
+                "numberOfPublications": 60
+            }
+        ],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                147.0,
+                -6.0
+            ]
+        }
+    }
+]

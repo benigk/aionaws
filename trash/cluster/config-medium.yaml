@@ -1,0 +1,22 @@
+provider: ec2
+
+services:
+  spark:
+    version: 3.1.2
+    download-source: "s3://quokka-spark/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz"
+
+launch:
+  num-slaves: 4
+  # install-spark: False
+
+providers:
+  ec2:
+    instance-profile-name: s3-full
+    key-name: flintrock
+    identity-file: /home/rex/.ssh/flintrock.pem
+    instance-type: t3.xlarge # 4 cpu, 16G
+    region: eu-north-1
+    # ami: ami-0061077d752a0f5b1
+    ami: ami-0ef53dddb600b5615
+    user: ec2-user
+    spot-price: 0.052

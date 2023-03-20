@@ -1,0 +1,21 @@
+.mapBackground{
+    background-color: rgba(138, 149, 199, 0.9);
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.authorBackground{
+    background-color: rgba(144, 179, 174, 0.9);
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    align-items: center;
+}
+.headerBackground{
+    background-color: antiquewhite;
+    height:40px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+}

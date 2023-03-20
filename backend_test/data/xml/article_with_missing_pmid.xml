@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>05</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-5594</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>38</Volume>
+            <Issue>25</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>06</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Oncogene</Title>
+          <ISOAbbreviation>Oncogene</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The inflammatory cytokine IL-6 induces FRA1 deacetylation promoting colorectal cancer stem-like properties.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>4932-4947</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41388-019-0763-0</ELocationID>
+        <Abstract>
+          <AbstractText>Colorectal cancer (CRC) has long been known for its tight association with chronic inflammation, thought to play a key role in tumor onset and malignant progression through the modulation of cancer stemness. However, the underlying molecular and cellular mechanisms are still largely elusive. Here we show that the IL-6/STAT3 inflammatory signaling axis induces the deacetylation of FRA1 at the Lys-116 residue located within its DNA-binding domain. The HDAC6 deacetylase underlies this key modification leading to the increase of FRA1 transcriptional activity, the subsequent transactivation of NANOG expression, and the acquisition of stem-like cellular features. As validated in a large (n = 123) CRC cohort, IL-6 secretion was invariably accompanied by increased FRA1 deacetylation at K116 and an overall increase in its protein levels, coincident with malignant progression and poor prognosis. Of note, combined treatment with the conventional cytotoxic drug 5-FU together with Tubastatin A, a HDAC6-specific inhibitor, resulted in a significant in vivo synergistic inhibitory effect on tumor growth through suppression of CRC stemness. Our results reveal a novel transcriptional and posttranslational regulatory cross-talk between inflammation and stemness signaling pathways that underlie self-renewal and maintenance of CRC stem cells and promote their malignant behavior. Combinatorial treatment aimed at the core regulatory mechanisms downstream of IL-6 may offer a novel promising approach for CRC treatment.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Tingyang</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Disease Proteomics of Zhejiang Province, Key Laboratory of Cancer Prevention and Intervention of China National Ministry of Education, and Research Center for Air Pollution and Health, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Ping</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Disease Proteomics of Zhejiang Province, Key Laboratory of Cancer Prevention and Intervention of China National Ministry of Education, and Research Center for Air Pollution and Health, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhong</LastName>
+            <ForeName>Tingting</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xianjun</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xiang</LastName>
+            <ForeName>Xueping</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Disease Proteomics of Zhejiang Province, Key Laboratory of Cancer Prevention and Intervention of China National Ministry of Education, and Research Center for Air Pollution and Health, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Qian</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Haiyi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xia</LastName>
+            <ForeName>Tian</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Hong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Zhejiang Normal University-Jinhua People's Hospital Joint Center for Biomedical Research, Jinhua, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Niu</LastName>
+            <ForeName>Yumiao</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Yanshi</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0003-3219-3778</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioinformatics, College of Life Sciences, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Lei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Bioinformatics and Medical Engineering, School of Electrical and Information Engineering, Jiangsu University of Technology, Changzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shao</LastName>
+            <ForeName>Yingkuan</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0002-8734-9445</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Disease Proteomics of Zhejiang Province, Key Laboratory of Cancer Prevention and Intervention of China National Ministry of Education, and Research Center for Air Pollution and Health, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Lijun</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Precision Diagnosis and Treatment for Hepatobiliary and Pancreatic Tumor of Zhejiang Province, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qi</LastName>
+            <ForeName>Hongyan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shen</LastName>
+            <ForeName>Jing</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hou</LastName>
+            <ForeName>Tingjun</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Bioinformatics and Medical Engineering, School of Electrical and Information Engineering, Jiangsu University of Technology, Changzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fodde</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">http://orcid.org/0000-0001-9839-4324</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Erasmus MC Cancer Institute, Erasmus University Medical Center, Rotterdam, The Netherlands. r.fodde@erasmusmc.nl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shao</LastName>
+            <ForeName>Jimin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology &amp; Pathophysiology, and Cancer Institute of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. shaojimin@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Disease Proteomics of Zhejiang Province, Key Laboratory of Cancer Prevention and Intervention of China National Ministry of Education, and Research Center for Air Pollution and Health, Zhejiang University School of Medicine, Hangzhou, China. shaojimin@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>02</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Oncogene</MedlineTA>
+        <NlmUniqueID>8711562</NlmUniqueID>
+        <ISSNLinking>0950-9232</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018836">Inflammation Mediators</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016760">Proto-Oncogene Proteins c-fos</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C087271">fos-related antigen 1</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.3.1.-</RegistryNumber>
+          <NameOfSubstance UI="D000123">Acetyltransferases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000107" MajorTopicYN="N">Acetylation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000123" MajorTopicYN="N">Acetyltransferases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015179" MajorTopicYN="N">Colorectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019073" MajorTopicYN="N">HT29 Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018836" MajorTopicYN="N">Inflammation Mediators</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008819" MajorTopicYN="N">Mice, Nude</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014411" MajorTopicYN="N">Neoplastic Stem Cells</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011499" MajorTopicYN="N">Protein Processing, Post-Translational</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016760" MajorTopicYN="N">Proto-Oncogene Proteins c-fos</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>10</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>02</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2019</Year>
+          <Month>01</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30804456</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41388-019-0763-0</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41388-019-0763-0</ArticleId>
+        <ArticleId IdType="pmc">PMC6756002</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

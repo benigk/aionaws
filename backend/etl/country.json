@@ -1,0 +1,1136 @@
+{
+    "JPN": {
+        "location": [
+            "139.63227910526774",
+            "35.64183535"
+        ],
+        "account": 1748
+    },
+    "null": {
+        "location": [
+            null,
+            null
+        ],
+        "account": 1006
+    },
+    "NPL": {
+        "location": [
+            "84",
+            "28"
+        ],
+        "account": 55
+    },
+    "ITA": {
+        "location": [
+            "12.83333",
+            "42.83333"
+        ],
+        "account": 1381
+    },
+    "CAN": {
+        "location": [
+            "-84.49983",
+            "49.25014"
+        ],
+        "account": 1424
+    },
+    "USA": {
+        "location": [
+            "-89.35478",
+            "29.2605"
+        ],
+        "account": 9330
+    },
+    "CHN": {
+        "location": [
+            "114.39637",
+            "30.52047"
+        ],
+        "account": 6615
+    },
+    "NOR": {
+        "location": [
+            "10",
+            "62"
+        ],
+        "account": 205
+    },
+    "THA": {
+        "location": [
+            "101",
+            "15.5"
+        ],
+        "account": 139
+    },
+    "AUT": {
+        "location": [
+            "13.33333",
+            "47.33333"
+        ],
+        "account": 217
+    },
+    "BEL": {
+        "location": [
+            "4.5",
+            "50.75"
+        ],
+        "account": 266
+    },
+    "GBR": {
+        "location": [
+            "-2.69531",
+            "54.75844"
+        ],
+        "account": 2116
+    },
+    "SWE": {
+        "location": [
+            "15",
+            "62"
+        ],
+        "account": 405
+    },
+    "AUS": {
+        "location": [
+            "135",
+            "-25"
+        ],
+        "account": 1116
+    },
+    "PAK": {
+        "location": [
+            "70",
+            "30"
+        ],
+        "account": 196
+    },
+    "ESP": {
+        "location": [
+            "-4",
+            "40"
+        ],
+        "account": 994
+    },
+    "ZAF": {
+        "location": [
+            "24",
+            "-29"
+        ],
+        "account": 173
+    },
+    "DEU": {
+        "location": [
+            "10.5",
+            "51.5"
+        ],
+        "account": 1694
+    },
+    "SGP": {
+        "location": [
+            "103.8",
+            "1.36667"
+        ],
+        "account": 185
+    },
+    "DNK": {
+        "location": [
+            "10",
+            "56"
+        ],
+        "account": 359
+    },
+    "IRN": {
+        "location": [
+            "53",
+            "32"
+        ],
+        "account": 534
+    },
+    "EGY": {
+        "location": [
+            "30",
+            "27"
+        ],
+        "account": 176
+    },
+    "CHE": {
+        "location": [
+            "8.01427",
+            "47.00016"
+        ],
+        "account": 444
+    },
+    "RUS": {
+        "location": [
+            "100",
+            "60"
+        ],
+        "account": 333
+    },
+    "ISR": {
+        "location": [
+            "34.75",
+            "31.5"
+        ],
+        "account": 272
+    },
+    "FRA": {
+        "location": [
+            "2",
+            "46"
+        ],
+        "account": 1137
+    },
+    "IND": {
+        "location": [
+            "79",
+            "22"
+        ],
+        "account": 1135
+    },
+    "KOR": {
+        "location": [
+            "127.6961188",
+            "36.638392"
+        ],
+        "account": 1002
+    },
+    "NGA": {
+        "location": [
+            "8",
+            "10"
+        ],
+        "account": 86
+    },
+    "IRQ": {
+        "location": [
+            "44",
+            "33"
+        ],
+        "account": 14
+    },
+    "FIN": {
+        "location": [
+            "26",
+            "64"
+        ],
+        "account": 194
+    },
+    "SVK": {
+        "location": [
+            "19.5",
+            "48.66667"
+        ],
+        "account": 35
+    },
+    "PRT": {
+        "location": [
+            "-8.13057",
+            "39.6945"
+        ],
+        "account": 236
+    },
+    "NZL": {
+        "location": [
+            "174",
+            "-42"
+        ],
+        "account": 172
+    },
+    "TUR": {
+        "location": [
+            "35",
+            "39"
+        ],
+        "account": 571
+    },
+    "SAU": {
+        "location": [
+            "45",
+            "25"
+        ],
+        "account": 117
+    },
+    "MEX": {
+        "location": [
+            "-102",
+            "23"
+        ],
+        "account": 192
+    },
+    "MYS": {
+        "location": [
+            "112.5",
+            "2.5"
+        ],
+        "account": 129
+    },
+    "TWN": {
+        "location": [
+            "121.56144177777671",
+            "25.02532085"
+        ],
+        "account": 404
+    },
+    "NLD": {
+        "location": [
+            "5.541246849406163",
+            "52.24764975"
+        ],
+        "account": 669
+    },
+    "AZE": {
+        "location": [
+            "47.7872508",
+            "40.3936294"
+        ],
+        "account": 17
+    },
+    "GEO": {
+        "location": [
+            "43.4999",
+            "41.99998"
+        ],
+        "account": 92
+    },
+    "GAB": {
+        "location": [
+            "11.6899699",
+            "-0.8999695"
+        ],
+        "account": 31
+    },
+    "GRC": {
+        "location": [
+            "22",
+            "39"
+        ],
+        "account": 191
+    },
+    "BRA": {
+        "location": [
+            "-55",
+            "-10"
+        ],
+        "account": 1007
+    },
+    "POL": {
+        "location": [
+            "20",
+            "52"
+        ],
+        "account": 432
+    },
+    "KWT": {
+        "location": [
+            "47.75",
+            "29.5"
+        ],
+        "account": 15
+    },
+    "LKA": {
+        "location": [
+            "80.75",
+            "7.75"
+        ],
+        "account": 18
+    },
+    "SRB": {
+        "location": [
+            "20.45998",
+            "44.81892"
+        ],
+        "account": 43
+    },
+    "IDN": {
+        "location": [
+            "120",
+            "-5"
+        ],
+        "account": 28
+    },
+    "ROU": {
+        "location": [
+            "25",
+            "46"
+        ],
+        "account": 104
+    },
+    "PAN": {
+        "location": [
+            "-81.1308434",
+            "8.559559"
+        ],
+        "account": 70
+    },
+    "MWI": {
+        "location": [
+            "35.0234242",
+            "-15.8029752"
+        ],
+        "account": 6
+    },
+    "URY": {
+        "location": [
+            "-56",
+            "-33"
+        ],
+        "account": 12
+    },
+    "COL": {
+        "location": [
+            "-74.90887",
+            "11.00854"
+        ],
+        "account": 115
+    },
+    "OMN": {
+        "location": [
+            "57.0036901",
+            "21.0000287"
+        ],
+        "account": 8
+    },
+    "GRL": {
+        "location": [
+            "-42.8125967",
+            "77.6192349"
+        ],
+        "account": 2
+    },
+    "TUN": {
+        "location": [
+            "9",
+            "34"
+        ],
+        "account": 47
+    },
+    "LVA": {
+        "location": [
+            "25",
+            "57"
+        ],
+        "account": 6
+    },
+    "CZE": {
+        "location": [
+            "15.4749544",
+            "49.8167003"
+        ],
+        "account": 126
+    },
+    "BGD": {
+        "location": [
+            "90",
+            "24"
+        ],
+        "account": 65
+    },
+    "ARG": {
+        "location": [
+            "-60.73918",
+            "-32.92616"
+        ],
+        "account": 136
+    },
+    "HUN": {
+        "location": [
+            "20",
+            "47"
+        ],
+        "account": 107
+    },
+    "ECU": {
+        "location": [
+            "-78.25",
+            "-1.25"
+        ],
+        "account": 15
+    },
+    "VNM": {
+        "location": [
+            "107.83333",
+            "16.16667"
+        ],
+        "account": 36
+    },
+    "CUB": {
+        "location": [
+            "-79.5",
+            "22"
+        ],
+        "account": 7
+    },
+    "LUX": {
+        "location": [
+            "6.16667",
+            "49.75"
+        ],
+        "account": 7
+    },
+    "KHM": {
+        "location": [
+            "105",
+            "13"
+        ],
+        "account": 4
+    },
+    "MAR": {
+        "location": [
+            "-6",
+            "32"
+        ],
+        "account": 28
+    },
+    "UGA": {
+        "location": [
+            "32.5",
+            "1.25"
+        ],
+        "account": 29
+    },
+    "ETH": {
+        "location": [
+            "39.5",
+            "9"
+        ],
+        "account": 50
+    },
+    "CMR": {
+        "location": [
+            "12.5",
+            "6"
+        ],
+        "account": 20
+    },
+    "ZWE": {
+        "location": [
+            "29.75",
+            "-19"
+        ],
+        "account": 14
+    },
+    "DZA": {
+        "location": [
+            "3",
+            "28"
+        ],
+        "account": 15
+    },
+    "ARE": {
+        "location": [
+            "54.5",
+            "23.75"
+        ],
+        "account": 32
+    },
+    "VAT": {
+        "location": [
+            "12.4528527",
+            "41.903411"
+        ],
+        "account": 30
+    },
+    "SDN": {
+        "location": [
+            "30",
+            "16"
+        ],
+        "account": 7
+    },
+    "PHL": {
+        "location": [
+            "122",
+            "13"
+        ],
+        "account": 18
+    },
+    "KEN": {
+        "location": [
+            "38",
+            "1"
+        ],
+        "account": 26
+    },
+    "LTU": {
+        "location": [
+            "24",
+            "55.41667"
+        ],
+        "account": 19
+    },
+    "BGR": {
+        "location": [
+            "25.25",
+            "42.66667"
+        ],
+        "account": 15
+    },
+    "JOR": {
+        "location": [
+            "36.941628",
+            "31.1667049"
+        ],
+        "account": 31
+    },
+    "KAZ": {
+        "location": [
+            "68",
+            "48"
+        ],
+        "account": 5
+    },
+    "EST": {
+        "location": [
+            "26",
+            "59"
+        ],
+        "account": 18
+    },
+    "HRV": {
+        "location": [
+            "15.5",
+            "45.16667"
+        ],
+        "account": 42
+    },
+    "ISL": {
+        "location": [
+            "-18",
+            "65"
+        ],
+        "account": 6
+    },
+    "BEN": {
+        "location": [
+            "2.25",
+            "9.5"
+        ],
+        "account": 2
+    },
+    "BHR": {
+        "location": [
+            "50.55",
+            "26.03333"
+        ],
+        "account": 6
+    },
+    "SVN": {
+        "location": [
+            "15",
+            "46.08333"
+        ],
+        "account": 40
+    },
+    "MLI": {
+        "location": [
+            "-2.2900239",
+            "16.3700359"
+        ],
+        "account": 1
+    },
+    "MMR": {
+        "location": [
+            "96.1316639",
+            "16.827751"
+        ],
+        "account": 34
+    },
+    "MOZ": {
+        "location": [
+            "35",
+            "-18.25"
+        ],
+        "account": 5
+    },
+    "ALB": {
+        "location": [
+            "19.9999619",
+            "41.000028"
+        ],
+        "account": 9
+    },
+    "CHL": {
+        "location": [
+            "-71",
+            "-30"
+        ],
+        "account": 164
+    },
+    "COG": {
+        "location": [
+            "15.6419155",
+            "-0.7264327"
+        ],
+        "account": 4
+    },
+    "GIN": {
+        "location": [
+            "-10.66667",
+            "10.83333"
+        ],
+        "account": 1
+    },
+    "FRO": {
+        "location": [
+            "-6.88293",
+            "61.98285"
+        ],
+        "account": 1
+    },
+    "UKR": {
+        "location": [
+            "32",
+            "49"
+        ],
+        "account": 35
+    },
+    "GHA": {
+        "location": [
+            "-1.2",
+            "8.1"
+        ],
+        "account": 32
+    },
+    "MAC": {
+        "location": [
+            "113.55972",
+            "22.15778"
+        ],
+        "account": 1
+    },
+    "UZB": {
+        "location": [
+            "63.83333",
+            "41.66667"
+        ],
+        "account": 1
+    },
+    "ZMB": {
+        "location": [
+            "28.5",
+            "-14.33333"
+        ],
+        "account": 3
+    },
+    "PSE": {
+        "location": [
+            "34.262716572130714",
+            "31.462420950000002"
+        ],
+        "account": 5
+    },
+    "TZA": {
+        "location": [
+            "32.8974241",
+            "-2.4888467"
+        ],
+        "account": 19
+    },
+    "LBN": {
+        "location": [
+            "35.83333",
+            "33.83333"
+        ],
+        "account": 35
+    },
+    "NAM": {
+        "location": [
+            "17",
+            "-22"
+        ],
+        "account": 4
+    },
+    "QAT": {
+        "location": [
+            "51.25",
+            "25.5"
+        ],
+        "account": 20
+    },
+    "IRL": {
+        "location": [
+            "-8.75",
+            "52.5"
+        ],
+        "account": 8
+    },
+    "PER": {
+        "location": [
+            "-75.25",
+            "-10"
+        ],
+        "account": 31
+    },
+    "MUS": {
+        "location": [
+            "57.58333",
+            "-20.3"
+        ],
+        "account": 1
+    },
+    "LBY": {
+        "location": [
+            "17",
+            "28"
+        ],
+        "account": 1
+    },
+    "AFG": {
+        "location": [
+            "66",
+            "33"
+        ],
+        "account": 1
+    },
+    "BFA": {
+        "location": [
+            "-1.66667",
+            "12.5"
+        ],
+        "account": 5
+    },
+    "CIV": {
+        "location": [
+            "-5.5679458",
+            "7.9897371"
+        ],
+        "account": 6
+    },
+    "VEN": {
+        "location": [
+            "-66",
+            "8"
+        ],
+        "account": 8
+    },
+    "BOL": {
+        "location": [
+            "-65",
+            "-17"
+        ],
+        "account": 6
+    },
+    "CYP": {
+        "location": [
+            "33",
+            "35"
+        ],
+        "account": 11
+    },
+    "COD": {
+        "location": [
+            "23.8222636",
+            "-2.9814344"
+        ],
+        "account": 3
+    },
+    "BRN": {
+        "location": [
+            "114.66667",
+            "4.5"
+        ],
+        "account": 2
+    },
+    "BRB": {
+        "location": [
+            "-59.55165",
+            "13.16453"
+        ],
+        "account": 4
+    },
+    "BIH": {
+        "location": [
+            "17.83333",
+            "44.25"
+        ],
+        "account": 11
+    },
+    "BLR": {
+        "location": [
+            "28",
+            "53"
+        ],
+        "account": 2
+    },
+    "MNG": {
+        "location": [
+            "105",
+            "46"
+        ],
+        "account": 3
+    },
+    "GTM": {
+        "location": [
+            "-90.25",
+            "15.5"
+        ],
+        "account": 1
+    },
+    "MNE": {
+        "location": [
+            "19.25",
+            "42.75"
+        ],
+        "account": 1
+    },
+    "SEN": {
+        "location": [
+            "-14.25",
+            "14.5"
+        ],
+        "account": 2
+    },
+    "CRI": {
+        "location": [
+            "-84.0739102",
+            "10.2735633"
+        ],
+        "account": 4
+    },
+    "MLT": {
+        "location": [
+            "14.43333",
+            "35.91667"
+        ],
+        "account": 6
+    },
+    "TGO": {
+        "location": [
+            "1.215829",
+            "6.130419"
+        ],
+        "account": 1
+    },
+    "XKX": {
+        "location": [
+            "20.91667",
+            "42.58333"
+        ],
+        "account": 2
+    },
+    "BWA": {
+        "location": [
+            "24",
+            "-22"
+        ],
+        "account": 1
+    },
+    "KGZ": {
+        "location": [
+            "74.724091",
+            "41.5089324"
+        ],
+        "account": 4
+    },
+    "AGO": {
+        "location": [
+            "18.5",
+            "-12.5"
+        ],
+        "account": 2
+    },
+    "NIC": {
+        "location": [
+            "-85",
+            "13"
+        ],
+        "account": 1
+    },
+    "JAM": {
+        "location": [
+            "-77.37122",
+            "18.17717"
+        ],
+        "account": 1
+    },
+    "LAO": {
+        "location": [
+            "103.378253",
+            "20.0171109"
+        ],
+        "account": 5
+    },
+    "TCD": {
+        "location": [
+            "19.0156172",
+            "15.6134137"
+        ],
+        "account": 1
+    },
+    "MCO": {
+        "location": [
+            "7.41903",
+            "43.73141"
+        ],
+        "account": 1
+    },
+    "TTO": {
+        "location": [
+            "-60.9821067",
+            "10.8677845"
+        ],
+        "account": 1
+    },
+    "RWA": {
+        "location": [
+            "30",
+            "-2"
+        ],
+        "account": 1
+    },
+    "PRK": {
+        "location": [
+            "127",
+            "40"
+        ],
+        "account": 1
+    },
+    "SLE": {
+        "location": [
+            "-11.8400269",
+            "8.6400349"
+        ],
+        "account": 3
+    },
+    "SYR": {
+        "location": [
+            "38",
+            "35"
+        ],
+        "account": 2
+    },
+    "GRD": {
+        "location": [
+            "-61.66667",
+            "12.11667"
+        ],
+        "account": 2
+    },
+    "HKG": {
+        "location": [
+            "114.16667",
+            "22.25"
+        ],
+        "account": 1
+    },
+    "VGB": {
+        "location": [
+            "-64.5661642",
+            "18.4024395"
+        ],
+        "account": 1
+    },
+    "ARM": {
+        "location": [
+            "45",
+            "40.25"
+        ],
+        "account": 2
+    },
+    "HTI": {
+        "location": [
+            "-72.29616",
+            "19.07582"
+        ],
+        "account": 2
+    },
+    "SSD": {
+        "location": [
+            "31.5908016940027",
+            "4.8402117"
+        ],
+        "account": 1
+    },
+    "NER": {
+        "location": [
+            "9.3238432",
+            "17.7356214"
+        ],
+        "account": 1
+    },
+    "FJI": {
+        "location": [
+            "178",
+            "-18"
+        ],
+        "account": 1
+    },
+    "LBR": {
+        "location": [
+            "-10.59567",
+            "6.45299"
+        ],
+        "account": 1
+    },
+    "SOM": {
+        "location": [
+            "48",
+            "6"
+        ],
+        "account": 1
+    },
+    "YEM": {
+        "location": [
+            "47.5",
+            "15.5"
+        ],
+        "account": 1
+    },
+    "DOM": {
+        "location": [
+            "-70.66667",
+            "19"
+        ],
+        "account": 3
+    },
+    "LSO": {
+        "location": [
+            "28.25",
+            "-29.5"
+        ],
+        "account": 1
+    },
+    "PRY": {
+        "location": [
+            "-58",
+            "-23.33333"
+        ],
+        "account": 1
+    },
+    "GUM": {
+        "location": [
+            "144.77656",
+            "13.50055"
+        ],
+        "account": 1
+    },
+    "CAF": {
+        "location": [
+            "19.9981227",
+            "7.0323598"
+        ],
+        "account": 1
+    },
+    "WSM": {
+        "location": [
+            "-172.12005",
+            "-13.7693895"
+        ],
+        "account": 1
+    },
+    "MKD": {
+        "location": [
+            "21.7168387",
+            "41.6171214"
+        ],
+        "account": 1
+    },
+    "PNG": {
+        "location": [
+            "147",
+            "-6"
+        ],
+        "account": 1
+    }
+}

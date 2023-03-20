@@ -1,0 +1,501 @@
+row_data,extract_country,extract_city,extract_affiliation,expected_country,expected_city,expected_affiliation
+"Pharmaceutical Materials Science and Engineering Laboratory, Department of Pharmaceutics, College of Pharmacy , University of Minnesota , Minneapolis , Minnesota 55455 , United States.",USA, Minnesota 55455 , Minneapolis 
+"State Key Laboratory of Stem Cell and Reproductive Biology, Institute of Zoology , Chinese Academy of Sciences , Beijing 100101 , China.",CHN, Beijing 100101 , Chinese Academy of Sciences 
+"Center for Nanochemistry, Beijing Science and Engineering Centre for Nanocarbons, College of Chemistry and Molecular Engineering , Peking University , Beijing 100871 , P. R. China.",CHN, Beijing 100871 , Peking University 
+"Department of Parasitology, National Public Health Center, Budapest, Hungary.",HUN, Budapest, National Public Health Center
+"Department of Parasitology, School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.",IRN, Sari, Mazandaran University of Medical Sciences
+"1 Division of General Medicine and Primary Care, Department of Medicine, Beth Israel Deaconess Medical Center, Boston, Massachusetts.",USA, Boston, Beth Israel Deaconess Medical Center
+"1 Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taipei, Taiwan.",TWN, Taipei, National Taiwan University
+"1 Shohada-E-Tajrish Hospital, School of Medicine, Shahid Behesti University of Medical Sciences, Tehran, Iran.",IRN, Tehran, Shahid Behesti University of Medical Sciences
+"Department of Environment and Forest Biology, State University of New York College of Environmental Science, Syracuse, New York.",USA, Syracuse, State University of New York College of Environmental Science
+"Unit of Clinical Pharmacology, Department of Biomedical and Clinical Sciences L. Sacco, 'Luigi Sacco' University Hospital, Università di Milano, Milan, Italy.",ITA, Milan, Università di Milano
+"Department of Medicine, Division of Cardiovascular Medicine, and Cardiovascular Research Center, University of Wisconsin-Madison School of Medicine and Public Health, Madison, Wisconsin, USA.",USA, Wisconsin, Madison
+"Department of Chemical and Biological Engineering and Center for Biomedical Engineering, University of New Mexico, Albuquerque, New Mexico, USA.",USA, New Mexico, Albuquerque
+"Department of Pathology, and.",USA,Department of Pathology,
+"Department of Psychology and Human Development, Vanderbilt University, Nashville, TN, USA.",USA, TN, Nashville
+"BABA Center, Children's Hospital, HUS Medical Imaging Center, Department of Clinical Neurophysiology, Helsinki University Hospital, Helsinki, Finland.",FIN, Helsinki, Helsinki University Hospital
+"Chemical and Physical Biology Program at Vanderbilt University, Nashville, TN, USA.",USA, TN, Nashville
+"Department of Research in Tobacco and COPD, Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, Mexico City, Mexico.",MEX, Mexico City, Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas
+"Biodiversity Research Center, Academia Sinica, Taipei, Taiwan.",TWN, Taipei, Academia Sinica
+"IMPACT Strategic Research Centre, Deakin University, Geelong, Victoria, Australia.",AUS, Victoria, Geelong
+"Northwestern Institute on Complex Systems, Northwestern University, Evanston, Illinois.",USA, Evanston, Northwestern University
+"Department of Metabolic-Surgical Weight Management, Kaiser Permanente, Denver, Colorado.",USA, Denver, Kaiser Permanente
+"MRC Centre for Inflammation Research, University of Edinburgh, Edinburgh, Scotland.",GBR, Edinburgh, University of Edinburgh
+"Department of Rural Health, University of Melbourne Medical School, Melbourne, Australia.",AUS, Melbourne, University of Melbourne Medical School
+"University of Iowa, Iowa City.",USA,University of Iowa,
+"Department of Anatomy, Wuxi School of Medicine, Jiangnan University, Wuxi, China. zwjin@ybu.edu.cn.",CHN, Wuxi, Jiangnan University
+"Department of Anatomy, College of Medicine, King Saud University, Riyadh, Saudi Arabia. atteya.m@gmail.com.",SAU, Riyadh, King Saud University
+"Department of Smart Information Technology, Baewha Woman's University, Seoul, Korea, Republic Of.",USA, Korea, Seoul
+"Clinical Centre of Cardiology, University Clinical Centre, Gdańsk, Poland.",POL, Gdańsk, University Clinical Centre
+"Department of Clinical Physiology, Faculty of Veterinary Medicine, University of Warmia and Mazury in Olsztyn, Oczapowskiego 13, 10-719 Olsztyn, Poland. michal.bulc@uwm.edu.pl.",POL, 10-719 Olsztyn, Oczapowskiego 13
+"Department of Comparative Anatomy, Faculty of Veterinary Medicine Cluj-Napoca, University of Agricultural Sciences and Veterinary Medicine, Cluj-Napoca, Romania.",ROU, Cluj-Napoca, University of Agricultural Sciences and Veterinary Medicine
+"Autonomous Veterinarian, Centre for Veterinarian Diagnosis and Support (Centro de Apoio e Diagnóstico Veterinário - CAD), Rio de Janeiro, Brazil.",BRA, Rio de Janeiro, Centre for Veterinarian Diagnosis and Support (Centro de Apoio e Diagnóstico Veterinário - CAD)
+"Department of Anatomy, Faculty of Medicine, Bolu Abant Izzet Baysal University, Bolu, Turkey. sedasertelmeyvaci@gmail.com.",TUR, Bolu, Bolu Abant Izzet Baysal University
+"Department of Pediatric Endocrinology and Genetic Metabolism, Shanghai Institute for Pediatric Research, Xinhua Hospital, Shanghai Jiaotong University School of Medicine, Shanghai 200092, China. yejun@xinhuamed.com.cn.",CHN, Shanghai 200092, Shanghai Jiaotong University School of Medicine
+"Center of Genetics and Prenatal diagnosis, the First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan 450001, China. kongxd@263.net.",CHN, Henan 450001, Zhengzhou
+"Research Center for Environmental Health Technology, Iran University of Medical Sciences, Tehran, IR.",IRN, Tehran, Iran University of Medical Sciences
+"Department of Environmental and Occupational Health, School of Public Health and Social Sciences, Muhimbili University of Health and Allied Sciences, Dar es Salaam, TZ.",TZA, Dar es Salaam, Muhimbili University of Health and Allied Sciences
+"Environmental and Occupational Toxicology Unit, Department of Biochemistry, Plateau State University, Bokkos, Plateau State, NG.",NGA, Plateau State, Bokkos
+"Department of Preventive and Social Medicine, Faculty of Medicine, Srinakharinwirot University, TH.",THA, Srinakharinwirot University, Faculty of Medicine
+"Faculty of Medicine Ramathibodi Hospital, Mahidol University, Centre for Tropical Medicine and Global Health, Nuffield Department of Medicine, University of Oxford, UK.",GBR, University of Oxford, Nuffield Department of Medicine
+"Ministry of Health, Mersin Public Health Directorate, Mersin, TR.",TUR, Mersin, Mersin Public Health Directorate
+"Abadan School of Medical Sciences, Abadan, IR.",IRN, Abadan,Abadan School of Medical Sciences
+"Hero MotoCorp Ltd, Dharuhera, Haryana, IN.",IND, Haryana, Dharuhera
+"School of Pharmacy, Management and Science University, MY.",USA, Management and Science University,School of Pharmacy
+"Center for International Health at the Institute for Occupational, Social and Environmental Medicine, University Hospital, LMU Munich, Ziemssenstr. 1, 80336 Munich, DE.",DEU, 80336 Munich, Ziemssenstr. 1
+"Department of Biochemistry , University of Cambridge , Tennis Court Road , Cambridge CB 1QW , United Kingdom.",GBR, Cambridge CB 1QW , Tennis Court Road 
+"Center for Proteomics and Metabolomics , Leiden University Medical Center , Postzone S3-P, Postbus 9600, 2300 RC Leiden , The Netherlands.",NLD, 2300 RC Leiden , Postbus 9600
+"Department of Inorganic and Analytical Chemistry , University of Geneva , Quai Ernest-Ansermet 30 , CH-1211 Geneva , Switzerland.",CHE, CH-1211 Geneva , Quai Ernest-Ansermet 30 
+"Department of Chemistry, Hong Kong Branch of Chinese National Engineering Research Center for Tissue Restoration and Reconstruction, Institute for Advanced Study, and Department of Chemical and Biological Engineering , The Hong Kong University of Science and Technology , Clear Water Bay , Kowloon , 999077 , Hong Kong, China.",CHN, Hong Kong, 999077 
+"MOE Key Laboratory of Bioinorganic and Synthetic Chemistry, School of Chemistry , Sun Yat-Sen University , Guangzhou 510275 , People's Republic of China.",CHN, Guangzhou 510275 , Sun Yat-Sen University 
+"U.S. Geological Survey , California Water Science Center , Sacramento , California 95819 , United States.",USA, California 95819 , Sacramento 
+"School of Environmental Science and Engineering , Shaanxi University of Science and Technology , Xi'an 710021 , China.",CHN, Xi'an 710021 , Shaanxi University of Science and Technology 
+"Department of Chemistry and KI for the BioCentury , Korea Advanced Institute of Science and Technology (KAIST) , Daejeon 34141 , Republic of Korea.",KOR, Daejeon 34141 , Korea Advanced Institute of Science and Technology (KAIST) 
+"Department of Chemistry , Kindai University , 3-4-1 Kowakae , Higashiosaka , Osaka 577-8502 , Japan.",JPN, Osaka 577-8502 , Higashiosaka 
+"Department of Chemistry , University of California , Berkeley , California 94720 , United States.",USA, California 94720 , Berkeley 
+"State Key Laboratory of Drug Research , Shanghai Institute of Materia Medica, Chinese Academy of Sciences , 555 Zuchongzhi Road , Shanghai 201203 , People's Republic of China.",CHN, Shanghai 201203 , 555 Zuchongzhi Road 
+"Department of Chemistry and Biochemistry , University of California , Santa Barbara , California 93106 , United States.",USA, California 93106 , Santa Barbara 
+"Department of Microbiology and Immunology , Tulane University School of Medicine , New Orleans , Louisiana 70112 United States.",USA, New Orleans , Tulane University School of Medicine 
+"Lindsay L. Shea and Robert Field, Drexel University; Ming Xie and Steven Marcus, University of Pennsylvania; Craig Newschaffer, Drexel University; and David Mandell, University of Pennsylvania.",USA, Drexel University; and David Mandell, University of Pennsylvania; Craig Newschaffer
+"Thomas L. Boehm, Wheaton College; and Erik W. Carter, Vanderbilt University.",USA, Wheaton College; and Erik W. Carter,Thomas L. Boehm
+"Xueqin Qian, Sheryl A. Larson, and Renáta Tichá, Institute on Community Integration, University of Minnesota, Minneapolis; Roger Stancliffe, University of Sydney, Lidcombe, NSW, 1825, Australia; and Sandra L Pettingell, Institute on Community Integration, University of Minnesota, Minneapolis.",USA, University of Minnesota, Institute on Community Integration
+"Yannick Courbois and Hursula Mengue-Topio, Université de Lille, France; Mark Blades, The University of Sheffield, UK; Emily K Farran, University of Surrey, UK; and Pascal Sockeel, Université de Lille, France.",FRA, Université de Lille, UK; and Pascal Sockeel
+"Universidade Metodista de Piracicaba, Santa Bárbara d'Oeste, Minas Gerais, Brazil.",BRA, Minas Gerais, Santa Bárbara d'Oeste
+"a SciLifeLab, Division of Affinity Proteomics, Department of Protein Science , KTH Royal Institute of Technology , Stockholm , Sweden.",SWE, Stockholm , KTH Royal Institute of Technology 
+"a Department of Neurology, Institute of Neurological Sciences , Queen Elizabeth University Hospital , Glasgow , UK.",GBR, Glasgow , Queen Elizabeth University Hospital 
+"a Department of Cardiology , Health Sciences University, Sultan Abdülhamid Han Training and Research Hospital , Istanbul , Turkey.",TUR, Istanbul , Sultan Abdülhamid Han Training and Research Hospital 
+"Korea Institute of Science and Technology, Seoul.",KOR,Korea Institute of Science and Technology,
+"a Department of Psychology, Neuroscience & Behaviour and Office of Education Science, Department of Surgery, McMaster University , Hamilton , Ontario , Canada.",CAN, Ontario , Hamilton 
+"1 Department of Emergency Medicine, Jan Kochanowski University, Kielce, Poland.",POL, Kielce, Jan Kochanowski University
+"a Faculty of Medical Sciences, Cardiovascular Research Centre, Institutes of Cellular and Genetic Medicine , Newcastle University, and Newcastle upon Tyne Hospitals , Newcastle upon Tyne , UK.",GBR, Newcastle upon Tyne , and Newcastle upon Tyne Hospitals 
+"a Department of Psychiatry and Addiction , University of Montreal , Montreal , Canada.",CAN, Montreal , University of Montreal 
+"a Diabetes Medical Center , Tel Aviv , Israel.",ISR, Tel Aviv ,a Diabetes Medical Center 
+"Instituto Nacional de Cancerología, Guatemala City, Guatemala.",GTM, Guatemala City,Instituto Nacional de Cancerología
+"Vascular Nurse Consultant. Mid Yorkshire NHS Trust/University of Huddersfield, England.",GBR,Vascular Nurse Consultant. Mid Yorkshire NHS Trust/University of Huddersfield,
+"a Faculty of Odontology, Department of Endodontics , Malmö University , Malmö , Sweden.",SWE, Malmö , Malmö University 
+"Department of Psychology, Senshu University , Kawasaki , Japan.",JPN, Kawasaki , Senshu University 
+"School of Public Health, Taishan Medical University, Taian, China.",CHN, Taian, Taishan Medical University
+"1 Institute of Veterinary Medicine and Animal Sciences, Estonian University of Life Sciences, Tartu, Estonia.",EST, Tartu, Estonian University of Life Sciences
+"Nell Hodgson Woodruff School of Nursing, Emory University , Atlanta , GA , USA.",USA, GA , Atlanta 
+"1 Department of Clinical Laboratory Medicine, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, Guangdong, China.",CHN, Guangdong, Guangzhou
+"VA Boston Healthcare System , West Roxbury , Massachusetts , USA.",USA, Massachusetts , West Roxbury 
+"Department of Global and Community Health, George Mason University, Fairfax, Virginia.",USA, Fairfax, George Mason University
+1Department of Neurosurgery.,,,
+1College of Medicine.,,,
+Departments of1Neurological Surgery.,,,
+"Department of Information Technology, Mayo Clinic, Rochester, Minnesota.",USA, Rochester, Mayo Clinic
+"Department of Neuroscience, Biomedicine and Movement Sciences, University of Verona, Verona, Italy.",ITA, Verona, University of Verona
+"Leprosy Laboratory, Oswaldo Cruz Institute-Fiocruz, Rio de Janeiro, Rio de Janeiro, Brazil.",BRA, Rio de Janeiro, Rio de Janeiro
+"Computational Biology Laboratory, Danish Cancer Society Research Center, Copenhagen, Denmark.",DNK, Copenhagen, Danish Cancer Society Research Center
+"Zoonotic Disease Coordination Office (ZDCO), National One Health Platform (NOHP), Ministry of Health, Kampala, Uganda.",UGA, Kampala, Ministry of Health
+"Department of Biology, University of Rochester, Rochester, New York, United States of America.",USA, New York, Rochester
+"Institute of Microbiology, Technische Universität Braunschweig, Spielmannstr. 7, D-38106 Braunschweig, Germany.",DEU, D-38106 Braunschweig, Spielmannstr. 7
+"The department of Plant Pathology and Microbiology, The Robert H Smith Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem, Rehovot, Israel.",ISR, Rehovot, The Hebrew University of Jerusalem
+"School of Geography and the Environment, University of Oxford, Oxford, United Kingdom.",GBR, Oxford, University of Oxford
+"Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine, London, United Kingdom.",GBR, London, London School of Hygiene & Tropical Medicine
+"Division of Virology, University of the Free State and National Health Laboratory Service (NHLS), Bloemfontein, South Africa.",ZAF, Bloemfontein, University of the Free State and National Health Laboratory Service (NHLS)
+"Shimane University, Matsue, Shimane, Japan.",JPN, Shimane, Matsue
+"Department of Psychology, George Mason University, Fairfax, VA, United States of America.",USA, VA, Fairfax
+"Department of Linguistics, Heinrich Heine University, Düsseldorf, Germany.",DEU, Düsseldorf, Heinrich Heine University
+"Anaesthesia and Intensive Care, Department of Biomedical Sciences and Public Health, Università Politecnica delle Marche, Ancona, Italy.",ITA, Ancona, Università Politecnica delle Marche
+"Department of Radiology, Medical Center-University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",DEU, Freiburg, University of Freiburg
+"NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing, P. R. China.",CHN, Beijing, Chinese Academy of Medical Sciences & Peking Union Medical College
+"Orthopaedic Biomechanics, Department of Biomedical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands.",NLD, Eindhoven, Eindhoven University of Technology
+"Monash University, Melbourne, VIC.",AUS, Melbourne,Monash University
+"Department of Otolaryngology-Head and Neck Surgery, University of California, Irvine Medical Center, Orange, California.",USA, Orange, Irvine Medical Center
+"Department of Otolaryngology-Head and Neck Surgery, Nationwide Children's Hospital and Wexner Medical Center at Ohio State University, Columbus, Ohio.",USA, Columbus, Nationwide Children's Hospital and Wexner Medical Center at Ohio State University
+"School of Food Science and Technology, Jiangnan Univ., 1800 Lihu Road, Wuxi, 214122, Jiangsu, People's Republic of China.",CHN, Jiangsu, 214122
+"Dermatology Department, EA 3279: CEReSS -Health Service Research and Quality of Life Center, Assistance Publique Hôpitaux de Marseille, Timone Hospital, Aix-Marseille University, Marseille, France.",FRA, Marseille, Aix-Marseille University
+"Department of Dermatology, Case Western Reserve University School of Medicine, Cleveland, OH, USA.",USA, OH, Cleveland
+"Department of Otolaryngology-Head and Neck Surgery, Massachusetts Eye and Ear Infirmary, Harvard Medical School, Boston, Massachusetts, U.S.A.",USA, Massachusetts, Boston
+"Department of Laboratory Medicine, Karolinska Institute, Stockholm, Sweden.",SWE, Stockholm, Karolinska Institute
+"Department of Respiratory Sciences, University of Leicester, Leicester, UK.",GBR, Leicester, University of Leicester
+"Abteilung Biostatistik, Institut für Zellbiologie und Biophysik, Leibniz Universität Hannover, Hannover, Germany.",DEU, Hannover, Leibniz Universität Hannover
+"School of Nursing, University of Connecticut, Storrs, Connecticut.",USA, Storrs, University of Connecticut
+"Lomonosov Moscow State University, Belozersky Institute of Physico-Chemical Biology, Moscow, Russia.",RUS, Moscow, Belozersky Institute of Physico-Chemical Biology
+"Student Wellbeing, University of Derby, Derby, UK.",GBR, Derby, University of Derby
+"Department of Orthopaedics, Orthopaedics Institute, Clinical Medical College of Yangzhou University, Subei People's Hospital of Jiangsu Province, Yangzhou, Jiangsu, 225001, China.",CHN, 225001, Jiangsu
+"Cardiac Surgery Department, Instituto Cardiovascular de Buenos Aires, Buenos Aires, Argentina.",ARG, Buenos Aires, Instituto Cardiovascular de Buenos Aires
+"Regenerative Medicine Institute (REMEDI), School of Medicine, National University of Ireland Galway (NUIG), Galway, Ireland.",GBR, Galway, National University of Ireland Galway (NUIG)
+"Faculty of Veterinary Medicine, Department of Anatomy, University of Van Yuzuncu Yil, Van, Turkey.",TUR, Van, University of Van Yuzuncu Yil
+"Department of Anthropology, University of Illinois Urbana-Champaign, Urbana, Illinois.",USA, Urbana, University of Illinois Urbana-Champaign
+"Department of Veterinary Medicine and Surgery, University of Missouri, Columbia, Missouri.",USA, Columbia, University of Missouri
+"Department of Forensic Medicine and Imaging, Institute of Forensic Medicine, University of Zurich, Switzerland.",CHE, University of Zurich, Institute of Forensic Medicine
+"Chongqing Key Laboratory of Natural Product Synthesis and Drug Research, School of Pharmaceutical Sciences, Chongqing University, Chongqing, 401331, China.",CHN, 401331, Chongqing
+"Special Testing and Research Laboratory, U.S. Drug Enforcement Administration, 22624 Dulles Summit Court, Dulles, Virginia, 20166, USA.",USA, 20166, Virginia
+"Chair of Medical Biochemistry, Jagiellonian University Medical College, Kraków, Poland.",POL, Kraków, Jagiellonian University Medical College
+"State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, University of Science and Technology of China, Changchun, 130022, China.",CHN, 130022, Changchun
+"INEGI, Institute of Science and Innovation in Mechanical and Industrial Engineering, Rua Dr. Roberto Frias, 400, 4200-465, Porto, Portugal.",PRT, Porto, 4200-465
+"Division of Cardiology, Seattle Children's Hospital, Seattle, Washington.",USA, Seattle, Seattle Children's Hospital
+"Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania.",USA, Philadelphia, University of Pennsylvania
+"Department of Trauma, Hand, Plastic and Reconstructive Surgery, University of Wuerzburg, Oberduerrbacher Str. 6, 97080, Wuerzburg, Germany.",DEU, Wuerzburg, 97080
+"Division of Health Informatics, Department of Healthcare Policy and Research, Weill Cornell Medicine, 425 East Street, Suite 301, New York, NY, 10065, USA.",USA, 10065, NY
+"Centre for Translational Bone, Joint and Soft Tissue Research, University Hospital Carl Gustav Carus and Faculty of Medicine of Technische Universität Dresden, Fetscherstr. 74, 01307, Dresden, Germany.",DEU, Dresden, 01307
+"Faculty of Medicine, Poznan University of Medical Sciences, Poland.",POL, Poznan University of Medical Sciences,Faculty of Medicine
+"Department of Conservative Dentistry, Chair of Conservative Dentistry and Endodontics, Faculty of Medicine with the Division of Dentistry, Medical University of Lodz, Poland.",POL, Medical University of Lodz, Faculty of Medicine with the Division of Dentistry
+"Department of Physics , Carnegie Mellon University , Pittsburgh , Pennsylvania 15213 , United States.",USA, Pennsylvania 15213 , Pittsburgh 
+"Department of Chemistry , Stanford University , Stanford , California 94305 , United States.",USA, California 94305 , Stanford 
+"Department of MedicineBrigham and Women's HospitalBoston, Massachusetts.",USA,Department of MedicineBrigham and Women's HospitalBoston,
+"Ionis Pharmaceuticals, Carlsbad, California; and.",ITA, Carlsbad,Ionis Pharmaceuticals
+"Inonu University, Faculty of Health Sciences, Midwifery Department , Malatya , Turkey.",TUR, Malatya , Midwifery Department 
+"a Department of Obstetrics & Gynecology , Hamamatsu University School of Medicine , Shizuoka , Japan.",JPN, Shizuoka , Hamamatsu University School of Medicine 
+"a Division of Air Resources, New York State Department of Environmental Conservation , Albany , NY , USA.",USA, NY , Albany 
+"a Department of Clinical Psychology, Utrecht University , Utrecht , the Netherlands.",NLD, Utrecht , Utrecht University 
+"Psychology Graduate Program, Pontifícia Universidade Católica do Rio Grande do Sul, Brazil.",BRA, Pontifícia Universidade Católica do Rio Grande do Sul,Psychology Graduate Program
+"Department of Dermatology, Gunma University Graduate School of Medicine, Gunma, Japan.",JPN, Gunma, Gunma University Graduate School of Medicine
+"a Intel Corporation , Santa Clara , California , USA.",USA, California , Santa Clara 
+"a Social Work , University Drive, University of Newcastle , Callaghan , Australia.",AUS, Callaghan , University of Newcastle 
+a Suffolk University.,USA,,
+"Laboratory of Animal Reproduction, College of Animal Science and Technology, Nanjing Agricultural University, Nanjing 210095, China.",CHN, Nanjing 210095, Nanjing Agricultural University
+"School of Marine Sciences, Ningbo University, Ningbo, Zhejiang Province, 315211, China.",CHN, 315211, Zhejiang Province
+"School of Pharmacy, Maharaja Agrasen University, Atal Shiksha Kunj, Village Kalujhanda, Solan, Himachal Pradesh, 174103, India.",IND, 174103, Himachal Pradesh
+"Department of Genetics, Cell Biology and Development, University of Minnesota, Minneapolis, MN 55455, USA.",USA, MN 55455, Minneapolis
+"Cardiff University Brain Research Imaging Centre, Cardiff University, Cardiff, UK.",GBR, Cardiff, Cardiff University
+"School of Biological and Chemical Sciences, Queen Mary University of London, Mile End Road, London E1 4NS, UK.",GBR, London E1 4NS, Mile End Road
+"Department of Biology, Wesleyan University, Middletown, CT, USA. Electronic address: fcohan@wesleyan.edu.",USA, CT, Middletown
+"Centre for Organismal Studies (COS), Heidelberg University, Im Neuenheimer Feld 230, 69120 Heidelberg, Germany.",DEU, 69120 Heidelberg, Im Neuenheimer Feld 230
+"Department of Medicine, Oregon Health and Science University, Portland, OR, USA. Electronic address: lachowiez@ohsu.edu.",USA, OR, Portland
+"Department of Drug Design and Pharmacology, University of Copenhagen, Copenhagen, Denmark. Electronic address: anders.bach@sund.ku.dk.",DNK, Copenhagen, University of Copenhagen
+"INSERM U1110, Institut de Recherche sur les Maladies Virales et Hépatiques, Strasbourg, France; Université de Strasbourg, Strasbourg, France.",FRA, Strasbourg, France; Université de Strasbourg
+"Department of Pathology, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania. Electronic address: singhiad@upmc.edu.",USA, Pittsburgh, University of Pittsburgh Medical Center
+"Hans Christian Andersen Children's Hospital, Odense University Hospital, Odense, Denmark; Department of Clinical Research, University of Southern Denmark, Odense, Denmark. Electronic address: stine.dydensborg.sander@rsyd.dk.",DNK, Odense, University of Southern Denmark
+"Department of Computer Science, University of Southern Maine, Portland, ME, USA. Electronic address: parham.ap@gmail.com.",USA, ME, Portland
+"Human Identification Unit, School of Health Sciences, Universiti Sains Malaysia, Health Campus, 16150 Kubang Kerian, Kelantan, Malaysia. Electronic address: shahrilallia@yahoo.com.",MYS, Kelantan, 16150 Kubang Kerian
+"California State University San Marcos, San Marcos, CA 92069, USA. Electronic address: arocha@csusm.edu.",USA, CA 92069, San Marcos
+"Christine M. Kleinert Institute for Hand and Microsurgery, 225 Abraham Flexner Way, Suite 850, Louisville, KY 40202, United States. Electronic address: ckaufman@cmki.org.",USA, KY 40202, Louisville
+"Positive Ageing Research Institute, Anglia Ruskin University, Chelmsford, UK; The Cambridge Centre for Sport and Exercise Sciences, Anglia Ruskin University, Compass House Annex, Newmarket Road, Cambridge CB5 8DZ, UK. Electronic address: stephanie.stockwell1@pgr.anglia.ac.uk.",GBR, Cambridge CB5 8DZ, Newmarket Road
+"Neuropsychology Research Unit, School of Psychology, The University of Queensland, St. Lucia, Brisbane, QLD, 4072, Australia.",AUS, 4072, QLD
+"Sheikh Khalifa Medical City, Abu Dhabi, United Arab Emirates; Dubai Medical College, Dubai, United Arab Emirates. Electronic address: beshyah@yahoo.com.",ARE, Dubai, United Arab Emirates; Dubai Medical College
+"Department of Cardiology, Faculty of Medicine, Harran University, Sanliurfa, Turkey. Electronic address: ztverdi@gmail.com.",TUR, Sanliurfa, Harran University
+"Department of Biotechnology, Instituto de Biología Molecular y Celular de Plantas, Universitat Politècnica de València, Valencia, Spain. Electronic address: apascual@ibmcp.upv.es.",ESP, Valencia, Universitat Politècnica de València
+"LAPEC EA-4278, Avignon Université, F-84000, Avignon, France.",FRA, Avignon, F-84000
+"Amsterdam UMC, Vrije Universiteit Amsterdam, Department of Radiation Oncology, Cancer Center Amsterdam, Amsterdam, the Netherlands. Electronic address: w.vanrooij@vumc.nl.",NLD, Amsterdam, Cancer Center Amsterdam
+"Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, Texas.",USA, Houston, The University of Texas MD Anderson Cancer Center
+"University of Copenhagen, Copenhagen Academy for Medical Education and Simulation (CAMES), RegionH, Denmark. Electronic address: ahasselager@dadlnet.dk.",DNK, RegionH, Copenhagen Academy for Medical Education and Simulation (CAMES)
+"Communications Engineering Department, University of the Basque Country UPV/EHU, Ingeniero Torres Quevedo Plaza, 1, 48013 Bilbao, Spain. Electronic address: beatriz.chicote@ehu.eus.",ESP, 48013 Bilbao, 1
+"Department of Critical Care Services, Maine Medical Center, 22 Bramhall St, Portland, ME, USA; Predictive Analytics and Comparative Effectiveness (PACE) Center, Institute for Clinical Research and Health Policy Studies (ICRHPS), Tufts Medical Center, 800 Washington St. Boston, MA, USA. Electronic address: tmay@mmc.org.",USA, MA, 800 Washington St. Boston
+"Department of Anaesthesiology and Intensive Care Medicine, University Hospital of Cologne, Cologne, Germany. Electronic address: bernd.boettiger@uk-koeln.de.",DEU, Cologne, University Hospital of Cologne
+"College of Basic Medicine, Nanjing University of Chinese Medicine, Nanjing, 210046, China.",CHN, 210046, Nanjing
+"Research and Development Centre for Natural Health Products, HKBU Shenzhen Research and Continuing Education, Shenzhen, China; Consun Chinese Medicines Research Centre for Renal Diseases, Hong Kong Baptist University, Hong Kong, China. Electronic address: 995201620@qq.com.",CHN, Hong Kong, Hong Kong Baptist University
+"Institute for Pharmaceutical Chemistry, Philipps University Marburg, 35032 Marburg, Germany.",DEU, 35032 Marburg, Philipps University Marburg
+"The University of Mississippi, Department of Health, Exercise Science, and Recreation Management, University, MS 38677, USA. Electronic address: xye1@olemiss.edu.",USA, MS 38677, University
+"IWK Health Centre, Halifax, Nova Scotia, Canada; Dalhousie University School of Nursing, Halifax, Nova Scotia, Canada. Electronic address: christine.cassidy@iwk.nshealth.ca.",CAN, Nova Scotia, Halifax
+"The Pulmonary Center, Boston University School of Medicine, Boston, MA, United States of America. Electronic address: hasmeena@bu.edu.",USA, MA, Boston
+"Department of Dermatology, Xi Jing Hospital, the Fourth Military Medical University, Xi'an, 710032, PR China.",CHN, 710032, Xi'an
+"Department of Oral Pathology, Dental Science Research Institute, School of Dentistry, Chonnam National University, Gwangju, 61186, Republic of Korea; Department of Oral Maxillofacial Surgery, College of Stomatology, Dalian Medical University, Dalian 116044, China.",CHN, Dalian 116044, Dalian Medical University
+"Institute of Photomedicine, Shanghai Skin Disease Hospital, Tongji University, School of Medicine, Shanghai, China; Dermatology, Clinical Medical of Yangzhou University, Yangzhou, Jiangsu, China.",CHN, Jiangsu, Yangzhou
+"Department of Periodontology, Faculty of Dentistry, Islamic Azad University, Tehran, Iran.",IRN, Tehran, Islamic Azad University
+"Department of Restorative Dental Sciences, College of Dentistry, Imam Abdulrahman Bin Faisal University, Dammam, PO.Box 1982, Saudi Arabia. Electronic address: falonaizan@iau.edu.sa.",SAU, PO.Box 1982, Dammam
+"Internal Medicine, Uijeongbu St. Mary's Hospital, College of Medicine, The Catholic University of Korea, Seoul, South Korea.",KOR, Seoul, The Catholic University of Korea
+"Pharmacology and Toxicology Research Center, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100193, PR China. Electronic address: cmwu@implad.ac.cn.",CHN, Beijing 100193, Chinese Academy of Medical Sciences & Peking Union Medical College
+"Department of Antibiotics and Microbiology, National Medicines Institute, Chełmska 30/34, 00-725, Warsaw, Poland. Electronic address: k.michalska@nil.gov.pl.",POL, Warsaw, 00-725
+"Key Laboratory of Xin'an Medicine, Ministry of Education, Anhui University of Chinese Medicine, Hefei, Anhui, 230038, China.",CHN, 230038, Anhui
+"College of Environmental Science and Engineering, Ocean University of China, Qingdao, 266100, PR China.",CHN, 266100, Qingdao
+"Division of Environmental Engineering, Faculty of Engineering, Hokkaido University, North-13, West-8, Sapporo, 060-8628, Japan. Electronic address: k-matsunaga_7dnd@eis.hokudai.ac.jp.",JPN, 060-8628, Sapporo
+"RIKILT Wageningen University & Research, Wageningen, The Netherlands Akkermaalsbos 2, 6708 WB, Wageningen, the Netherlands. Electronic address: larissa.jansen@wur.nl.",NLD, Wageningen, 6708 WB
+"Department of Analytical Chemistry, Nutrition and Food Sciences. Institute for Research and Food Analysis (IIAA). Universidade de Santiago de Compostela, 15782, Santiago de Compostela, Spain.",ESP, Santiago de Compostela, 15782
+"University of Osijek, Department of Biology, Cara Hadrijana 8A, HR-31000, Osijek, Croatia.",HRV, Osijek, HR-31000
+"Department of Health and Human Performance, University of Houston, 3855 Holman Street, 104 Garrison Gym, Houston, TX, 77204, USA; Center for Neuromotor and Biomechanics Research, 4733 Wheeler Ave, Houston, TX, 77204 USA. Electronic address: craig-workman@uiowa.edu.",USA, TX, Houston
+"Department of Nuclear Medicine, Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany. Electronic address: thomas.fassbender@uniklinik-freiburg.de.",DEU, Freiburg, University of Freiburg
+"Research Center, Nihon Medi-Physics Co., Ltd., 299-0266 Sodegaura, Japan.",JPN, 299-0266 Sodegaura, Ltd.
+"Energy Safety Research Institute (ESRI), Swansea University Bay Campus, Fabian Way, Swansea SA1 8EN, UK.",GBR, Swansea SA1 8EN, Fabian Way
+"Aix Marseille Univ, CNRS, ICR, Marseille, France.",FRA, Marseille, ICR
+"Department of Computer Engineering, University of Engineering and Technology, Taxila, 47050, Pakistan.",PAK, 47050, Taxila
+"Department of Pathology and Laboratory Medicine, Brown University, 70 Ship Street Rm. 510, Box G-E5, Providence, Rhode Island, 02912, United States. Electronic address: angela_stermer@brown.edu.",USA, 02912, Rhode Island
+"Department of Cardiovascular Physiology, Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, Japan; Department of Physiology, Nagoya University School of Medicine, Nagoya, 466-8550, Japan. Electronic address: takah-k2@okayama-u.ac.jp.",JPN, 466-8550, Nagoya
+"Chair of Transportation Systems Engineering, Department of Civil, Geo and Environmental Engineering, Technical University of Munich, Arcistrasse 21, Munich, 80333, Germany. Electronic address: c.katrakazas@tum.de.",DEU, 80333, Munich
+"Key Laboratory of Road and Traffic Engineering, Ministry of Education, Tongji University, Shanghai, China; Engineering Research Center of Road Traffic Safety and Environment, Ministry of Education, Tongji University, Shanghai, China. Electronic address: 11wangfan@tongji.edu.cn.",CHN, Shanghai, Tongji University
+"Department of Leather Technology, Government College of Engineering and Leather Technology (Post Graduate), Maulana Abul Kalam Azad University of Technology, Salt Lake City, Kolkata, 700106, West Bengal, India.",IND, West Bengal, 700106
+"NIMHANS, Neurology, Department of Neurology, Faculty block, Neurocentre, 560029, Bangalore, Karnataka, India. Electronic address: drchandrasasi@yahoo.com.",IND, Karnataka, Bangalore
+"Faculty of the Microsystems Electronics and Photonics, Wroclaw University of Science and Technology, Wroclaw, Poland.",POL, Wroclaw, Wroclaw University of Science and Technology
+"University of Trento, Department of Industrial Engineering, Via Sommarive 9, I-38123 Trento, Italy.",ITA, I-38123 Trento, Via Sommarive 9
+"Institute of Biomaterial Science and Berlin-Brandenburg Center for Regenerative Therapies, Helmholtz-Zentrum Geesthacht, Kantstraße 55, D-14513 Teltow, Germany. Institute of Chemistry, University of Potsdam, Karl-Liebknecht-Straße 24-25, D-14476 Potsdam, Germany.",DEU, D-14476 Potsdam, Karl-Liebknecht-Straße 24-25
+"Department of Otorhinolaryngology - Head and Neck Surgery, John P. and Kathrine G. McGovern Medical School, The University of Texas Health Science Center at Houston, Houston, Texas, USA, marino.michael@mayo.edu.",USA, Texas, Houston
+"Department of Surgery, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA, deeba@upmc.edu.",USA, Pennsylvania, Pittsburgh
+"Department of Dermatology, Northwestern University, Chicago, Illinois, USA, ayeollech@yahoo.com.",USA, Illinois, Chicago
+"Department of Radiotherapy, Policlinico Umberto I, Sapienza University of Rome, Rome, Italy, fradefelice@hotmail.it.",ITA, Rome, Sapienza University of Rome
+"Department of Medical Oncology, Fondazione IRCCS - Istituto Nazionale dei Tumori, Milan, Italy, giulia.galli@istitutotumori.mi.it.",ITA, Milan, Fondazione IRCCS - Istituto Nazionale dei Tumori
+"Nuclear Medicine Research Center, Mashhad University of Medical Sciences, Mashhad, Iran.",IRN, Mashhad, Mashhad University of Medical Sciences
+"Division of Neonatology, Department of Pediatrics, University of Maryland School of Medicine, 110 S. Paca Street, 8th Floor, Baltimore, MD, 21201, USA. Natalie.davis@som.umaryland.edu.",USA, 21201, MD
+"Epidemic Cell, Central Council for Research in Homoeopathy, New Delhi, Delhi, India.",IND, Delhi, New Delhi
+"Laboratory of Animal Parasitology, Department of Animal Science and Rural Development, Agrarian Sciences Center, Federal University of Santa Catarina, Florianópolis, Brazil.",BRA, Florianópolis, Federal University of Santa Catarina
+"Department of Clinical Pharmacology, TNMC & BYL Nair Charitable Hospital, Mumbai, Maharashtra, India.",IND, Maharashtra, Mumbai
+"BG Trauma Center Ludwigshafen, Department of Hand, Plastic and Reconstructive Surgery, Microsurgery, Burn Center, University of Heidelberg, Heidelberg, Germany.",DEU, Heidelberg, University of Heidelberg
+"Division of Plastic Surgery, University of Utah Health, Salt Lake City, Utah.",USA, Salt Lake City, University of Utah Health
+"Department of Neurosurgery, Beijing Hospital, National Center of Gerontology, Dong Dan, Beijing, China.",CHN, Beijing, Dong Dan
+"Carl von Ossietzky Universitat Oldenburg, Klinik für Orthopädie und Unfallchirurgie.",DEU,Carl von Ossietzky Universitat Oldenburg,
+"Klinik für Mund-, Kiefer- und Gesichtschirurgie, Medizinische Hochschule Hannover.",DEU, Kiefer- und Gesichtschirurgie,Klinik für Mund-
+"Department of Pediatrics, Emory University School of Medicine, Atlanta, Georgia.",GEO, Atlanta, Emory University School of Medicine
+"Department of Medicine, Stanford Division of Nephrology, Palo Alto, California.",USA, Palo Alto, Stanford Division of Nephrology
+"Department of Hematology and Oncology, Yale University School of Medicine, New Haven, CT, USA.",USA, CT, New Haven
+"Language Teaching Program, Oranim College of Education, Tivon, Israel.",ISR, Tivon, Oranim College of Education
+"Liver Unit/ Division of Integrative Systems Medicine and Digestive Disease, Department of Surgery and Cancer, St Mary's Hospital Campus, Imperial College London, London, UK.",GBR, London, Imperial College London
+"Northern Sydney Cancer Centre, Royal North Shore Hospital, Sydney, New South Wales, Australia.",AUS, New South Wales, Sydney
+"Department of Surgery, Cairns Hospital, Cairns, Queensland, Australia.",AUS, Queensland, Cairns
+"Section of Integrative Physiology, Department of Nutrition, Exercise and Sports, University of Copenhagen, Copenhagen, Denmark.",DNK, Copenhagen, University of Copenhagen
+"Soft Materials Chemistry, Department of Applied Chemistry, Institute for Materials Chemistry and Engineering, Graduate School of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan. takahisa_anada@ms.ifoc.kyushu-u.ac.jp.",JPN, Fukuoka 819-0395, Nishi-ku
+"Department of Health Behavior and Health Education, University of Michigan School of Public Health, Ann Arbor, MI 48109, USA. lockwoni@umich.edu.",USA, MI 48109, Ann Arbor
+"Department of Pharmacology & Toxicology, College of Pharmacy, King Saud University, Riyadh 11564, Saudi Arabia. gamal.elmasry@agr.suez.edu.eg.",SAU, Riyadh 11564, King Saud University
+"CAS Key Laboratory of Tropical Marine Bio-resources and Ecology, Guangdong Key Laboratory of Marine Materia Medica, RNAM Center for Marine Microbiology, Institutions of South China Sea Ecology and Environmental Engineering, South China Sea Institute of Oceanology, Chinese Academy of Sciences, 164 West Xingang Road, Guangzhou 510301, China. 15969592400@163.com.",CHN, Guangzhou 510301, 164 West Xingang Road
+"College of Life Sciences, Fujian Agriculture and Forestry University, Fuzhou 350002, China. zhaoweili@fafu.edu.cn.",CHN, Fuzhou 350002, Fujian Agriculture and Forestry University
+"Division of Viral Transformation Mechanisms, German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany. claudia.savini2@gmail.com.",DEU, 69120 Heidelberg, German Cancer Research Center (DKFZ)
+"Department of Biomedical Sciences, College of Medicine, Korea University Guro Hospital, Seoul 08308, Korea. jae.lee0321@gmail.com.",KOR, Seoul 08308, Korea University Guro Hospital
+"State Key Laboratory of Quantum Optics and Quantum Optics Devices, Institute of Laser Spectroscopy, Shanxi University, Taiyuan 030006, China. waitingonce@163.com.",CHN, Taiyuan 030006, Shanxi University
+"Laboratory of Reproductive and Developmental Biology, Faculty of Science, Hokkaido University, Sapporo 060⁻0810, Japan. kogi@sci.hokudai.ac.jp.",JPN, Sapporo 060⁻0810, Hokkaido University
+"Institute of Cancer and Genomic Sciences, College of Medicine and Dental Sciences, University of Birmingham, Birmingham B15 2TT, UK. n.humayun-zakaria@bham.ac.uk.",GBR, Birmingham B15 2TT, University of Birmingham
+"Section for Oceans and Arctic, Technical University of Denmark, Kemitorvet, Building 202, DK-2800 Kgs. Lyngby, Denmark. sjo@aqua.dtu.dk.",DNK, DK-2800 Kgs. Lyngby, Building 202
+"Institute of Health Sciences, China Medical University, Shenyang 110122, China. yliu0568@cmu.edu.cn.",CHN, Shenyang 110122, China Medical University
+"Department of Clinical Pharmacy, University of Medicine and Pharmacy of Craiova, 200349 Craiova, Romania. calinadaniela@gmail.com.",ROU, 200349 Craiova, University of Medicine and Pharmacy of Craiova
+"Department of Pharmacoepidemiology, Graduate School of Medicine and Public Health, Kyoto University, Kyoto 606-8501, Japan. kawazoe.shin.85n@st.kyoto-u.ac.jp.",JPN, Kyoto 606-8501, Kyoto University
+"Instituto de Agroindustrias, Universidad Tecnológica de la Mixteca, Huajuapan de León, Oaxaca 69000, Mexico. bhcarlos@mixteco.utm.mx.",MEX, Oaxaca 69000, Huajuapan de León
+"Department of Physical Chemistry and Technology of Polymers, Silesian University of Technology, 9 Strzody Street, 44-100 Gliwice, Poland. Agnieszka.Stolarczyk@polsl.pl.",POL, 44-100 Gliwice, 9 Strzody Street
+"ZPH, Environmental Health, Medical University of Vienna, 1090 Vienna, Austria. julian.panholzer@gmail.com.",AUT, 1090 Vienna, Medical University of Vienna
+"Interdisciplinary Program in Landscape Architecture, Seoul National University, Seoul 08826, Korea. hjlee411@snu.ac.kr.",KOR, Seoul 08826, Seoul National University
+"Wuhan National Laboratory for Optoelectronics (WNLO) & School of Physics & School of Materials Science and Engineering, Huazhong University of Science and Technology (HUST), Center for Nanoscale Characterization & Devices (CNCD), LuoyuRoad 1037, Wuhan 430074, China. kangzheyc@hust.edu.cn.",CHN, Wuhan 430074, LuoyuRoad 1037
+"The State Key Laboratory of Reproductive Regulation and Breeding of Grassland Livestock, School of Life Sciences, Inner Mongolia University, Hohhot 010070, China. lcf52082@163.com.",CHN, Hohhot 010070, Inner Mongolia University
+"State Key Laboratory of Crop Stress Biology for Arid Areas, College of Agronomy, Northwest A&F University, Shaanxi 712100, China. zhangh1129@nwafu.edu.cn.",CHN, Shaanxi 712100, Northwest A&F University
+"1 Nursing and Midwifery care research center, Mashhad University of Medical Sciences, Mashhad, Iran.",IRN, Mashhad, Mashhad University of Medical Sciences
+"a Department of Animal Science, Faculty of Agricultural Sciences , Malayer University , Malayer , Iran.",IRN, Malayer , Malayer University 
+"a Department of Laboratory Medicine, Division of Medical Diagnostics , Region Jönköping County , Jönköping , Sweden.",SWE, Jönköping , Region Jönköping County 
+"Department of pharmaceutical and fine chemicals, School of Chemical Engineering, Nanjing University of Science and Technology , Nanjing , People's Republic of China.",CHN, Nanjing , Nanjing University of Science and Technology 
+"1 Department of Critical Care Medicine Kanagawa Children's Medical Center, Kanagawa, Minami-ku, Yokohama, Kanagawa, Japan.",JPN, Kanagawa, Yokohama
+"Program in Speech-Language-Hearing Sciences, Graduate Center, City University of New York , NY , USA.",USA, NY , City University of New York 
+"Department of Pharmacology, Therapeutics and Toxicology, Lagos State University College of Medicine, Lagos, Nigeria.",NGA, Lagos, Lagos State University College of Medicine
+"1 Graduate Institute of Chinese Medicine, College of Chinese Medicine, China Medical University, Taichung, Taiwan.",TWN, Taichung, China Medical University
+"a Department of Cardiology , University Clinical Hospital Center ""Dr. Dragisa Misovic - Dedinje"" , Belgrade , Serbia.",SRB, Belgrade ," University Clinical Hospital Center ""Dr. Dragisa Misovic - Dedinje"" "
+"a Department of Radiation Oncology , University of Florida College of Medicine , Gainesville , Florida , USA.",USA, Florida , Gainesville 
+"1 Physical Medicine, Rheumatology and Rehabilitation Department, Tanta University Hospitals, Tanta, Egypt.",EGY, Tanta, Tanta University Hospitals
+"Department of Dermatology, Ankara Numune Training and Research Hospital , Ankara , Turkey.",TUR, Ankara , Ankara Numune Training and Research Hospital 
+"1 Post Graduate Institute of Medical Education and Research, Chandigarh, India.",IND, Chandigarh,1 Post Graduate Institute of Medical Education and Research
+"1 The Graduate School of Southern Medical University, Guangzhou, China.",CHN, Guangzhou,1 The Graduate School of Southern Medical University
+"a Real-World Evidence and Data Analytics, Pharmerit International , Bethesda , MD , USA.",USA, MD , Bethesda 
+"School of Social Work, Temple University, Philadelphia, USA.",USA, Philadelphia, Temple University
+"Department of Psychology, Lake Forest College, Lake Forest, IL, USA.",USA, IL, Lake Forest
+"Centro de Biología Molecular CSIC-UAM , Madrid , Spain.",ESP, Madrid ,Centro de Biología Molecular CSIC-UAM 
+"1 Geotechnical Engineering Research Institute, Hohai University, Nanjing, China.",CHN, Nanjing, Hohai University
+"a Department of Electronics , Information and Bioengineering (DEIB), Politecnico di Milano , Milano , Italy.",ITA, Milano , Politecnico di Milano 
+"a Psychology , Valparaiso University , Valparaiso , IN , USA.",USA, IN , Valparaiso 
+"Brain, Mind and Behavior Research Center (CIMCYC), Faculty of Psychology, University of Granada , Granada , Spain.",ESP, Granada , University of Granada 
+"1 Indiana University School of Medicine, Indianapolis, IN, USA   .",USA, IN, Indianapolis
+"1 University of California, San Francisco.",USA,1 University of California,
+"a Department of Family Relations and Applied Nutrition , University of Guelph , Guelph , Ontario , Canada.",CAN, Ontario , Guelph 
+"1 Department of Biomedical Engineering and Mechanics, Virginia Tech , Blacksburg, VA 24061 , USA.",USA, VA 24061 , Blacksburg
+"a Department of Psychology, Central Michigan University , Mount Pleasant , MI , USA.",USA, MI , Mount Pleasant 
+"Department of Orthopaedic Surgery, National University of Singapore , NUHS Tower Block Level 11, 1E Kent Ridge Road, Singapore 119228 , Republic of Singapore.",SGP, Singapore 119228 , 1E Kent Ridge Road
+"1 Center for Systems Biology, School of Mathematical Sciences, Soochow University , Suzhou , People's Republic of China.",CHN, Suzhou , Soochow University 
+"1 Scotland's Rural College (SRUC) , Peter Wilson Building, King's Buildings, Edinburgh EH9 3JG , UK.",GBR, Edinburgh EH9 3JG , King's Buildings
+"1 Department of Biosciences and Informatics, Keio University , Kanagawa , Japan.",JPN, Kanagawa , Keio University 
+"Department of Mechanical Engineering, University College London , Torrington Place, London WC1E 7JE , UK.",GBR, London WC1E 7JE , Torrington Place
+"1 Institut Laue Langevin , 71 avenue des Martyrs, 38042 Grenoble Cedex 9 , France.",FRA, 38042 Grenoble Cedex 9 , 71 avenue des Martyrs
+"1 Department of Psychology, University of Pennsylvania.",USA,1 Department of Psychology,
+"Department of Gastroenterology, The Second Medical Center, Chinese PLA General Hospital and National Clinical Research Center for Geriatric Diseases, Beijing, 100853, People's Republic of China.",CHN, 100853, Beijing
+"The MOH Key laboratory of Geriatrics, Beijing Institute of Geriatrics, Beijing Hospital, National Center of Gerontology, No.1 Dahua Road, Dong Dan, Beijing, 100730, People's Republic of China. gonghuan3861@bjhmoh.cn.",CHN, 100730, Beijing
+"College of Population Studies, Chulalongkorn University, Bangkok, 10330, Thailand. orawan.pr@student.chula.ac.th.",THA, 10330, Bangkok
+"University of Exeter Medical School, PenTAG, Exeter, UK. Christopher.Cooper@exeter.ac.uk.",GBR, Exeter, PenTAG
+"Institute of Global Health and Infectious Diseases, University of North Carolina at Chapel Hill, 130 Mason Farm Road, Bioinformatics Building, Chapel Hill, NC, USA. jdtucker@med.unc.edu.",USA, NC, Chapel Hill
+"Maternal and Fetal Health Research Centre, University of Manchester, Manchester Academic Health Sciences Centre, Oxford Road, Manchester, M13 9WL, UK.",GBR, M13 9WL, Manchester
+"Department of Pediatrics and Child Health, Bugando Medical Centre, P. O. Box 1370, Mwanza, Tanzania.",TZA, Mwanza, P. O. Box 1370
+"State Key Laboratory for Molecular Biology of Special Wild Economic Animals, Institute of Special Wild Economic Animals and Plants, Chinese Academy of Agricultural Sciences, Changchun, 130112, China.",CHN, 130112, Changchun
+"Department of Public Health, Akita University Graduate School of Medicine, Akita, Japan. knomura@med.akita-u.ac.jp.",JPN, Akita, Akita University Graduate School of Medicine
+"Harvard University, 677 Huntington Ave, Kresge Building, Room 506G, Boston, MA, 02115, USA. alanyang77@gmail.com.",USA, 02115, MA
+"Center for Systematic Review for Health Policy and Systems Research, American University of Beirut, Beirut, Lebanon.",LBN, Beirut, American University of Beirut
+"Institute for Biomedical Problems - Russian Federation State Scientific Research Center Russian Academy of Sciences, Moscow, Russia.",RUS, Moscow,Institute for Biomedical Problems - Russian Federation State Scientific Research Center Russian Academy of Sciences
+"Discipline of Biological Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, India.",IND, Gandhinagar, Indian Institute of Technology Gandhinagar
+"HERD International, Thapathali-11, Kathmandu, Nepal. mirak.angdembe@gmail.com.",NPL, Kathmandu, Thapathali-11
+"Institute of Infection and Global Health, University of Liverpool, 8 West Derby St, Liverpool, L69 7BE, UK. Simon.leigh@liverpool.ac.uk.",GBR, L69 7BE, Liverpool
+"Département des sciences de la santé, physiothérapie, Université du Québec à Chicoutimi, 555, boulevard de l'Université, Chicoutimi, Quebec, G7H 2B1, Canada.",CAN, G7H 2B1, Quebec
+"SRC BioClinicum, Moscow, Russia.",RUS, Moscow,SRC BioClinicum
+"1Department of General Surgery,Ningbo Medical Center Lihuili Hospital,Ningbo,315000, People's Republic of China.",CHN,315000,Ningbo
+"Department of Human Development and Quantitative Methodology, University of Maryland, College Park, MD, USA.",USA, MD, College Park
+"Barwon Health Palliative Care Department, Victorian Comprehensive Cancer Centre and Melbourne Health, School of Medicine Deakin University, North Geelong, VIC, Australia.",AUS, VIC, North Geelong
+"Department of Educational Psychology, Texas A&M University, College Station, TX, USA.",USA, TX, College Station
+*Department of Emergency Medicine.,TWN,,
+"Palliative Care, Charleston, SC.",USA, Charleston,Palliative Care
+"Psychology Department,University of British Columbia Okanagan,Kelowna,BC.",CAN,Kelowna,University of British Columbia Okanagan
+"Department of Anesthesiology,PUMC Hospital,CAMS and PUMC,Beijing 100730,China.",CHN,Beijing 100730,CAMS and PUMC
+"School of Acupuncture-Moxibustion and Tuina,Beijing University of Chinese Medicine,Beijing 100029,China.",CHN,Beijing 100029,Beijing University of Chinese Medicine
+"Department of Internal Medicine, PUMC Hospital,CAMS and PUMC,Beijing 100730,China.",CHN,Beijing 100730,CAMS and PUMC
+"Healthcare Department, PUMC Hospital,CAMS and PUMC,Beijing 100730,China.",CHN,Beijing 100730,CAMS and PUMC
+"Department of Radiology,Hainan Hospital of Chinese PLA General Hospital,Sanya,Hainan 572013,China.",CHN,Hainan 572013,Sanya
+"Department of Public Health, La Trobe University, Melbourne, Vic. 3083, Australia; and Corresponding author. Email: thulepham15@gmail.com.",AUS, Vic. 3083, Melbourne
+"Department of Neurology, Humanitas Research Hospital, Rozzano Milano, Italy. Electronic address: alberto.albanese@unicatt.it.",ITA, Rozzano Milano, Humanitas Research Hospital
+"Oral and Maxillofacial Surgery Department, Faculty of Dentistry, The National University of Malaysia, Kuala Lumpur, Malaysia. Electronic address: syednabil@ppukm.ukm.edu.my.",MYS, Kuala Lumpur, The National University of Malaysia
+"Department of Radiology, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin. Electronic address: jrobbins@uwhealth.org.",USA, Madison, University of Wisconsin School of Medicine and Public Health
+"Stockholm Resilience Centre, Stockholm University, 106 91 Stockholm, Sweden; Graduate School of Agricultural and Life Sciences, The University of Tokyo, 1-1-1 Yayoi, Bunkyo-ku, 113-8657 Tokyo, Japan. Electronic address: robert.blasiak@su.se.",JPN, 113-8657 Tokyo, Bunkyo-ku
+"Gynecology Service, Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY, United States of America.",USA, NY, New York
+"State Key Laboratory of Natural Medicines, Department of Natural Medicinal Chemistry, School of Traditional Chinese Pharmacy, China Pharmaceutical University, 24 Tong Jia Xiang, Nanjing 210009, China.",CHN, Nanjing 210009, 24 Tong Jia Xiang
+"Anaesthetic Department, Royal Infirmary of Edinburgh, Edinburgh, UK. Electronic address: fleur.harding@nhs.net.",GBR, Edinburgh, Royal Infirmary of Edinburgh
+"Department of Orthopaedics, Chinese People's Liberation Army General Hospital (301 Hospital), Beijing, PR China.",CHN, Beijing, Chinese People's Liberation Army General Hospital (301 Hospital)
+"Computer Science and Engineering Department (DISI), University of Bologna, Campus of Cesena, Via dell'Università 50, Cesena, Italy. Electronic address: sara.montagna@unibo.it.",ITA, Cesena, Via dell'Università 50
+"Department of Developmental Disorders, National Institute of Mental Health, National Center of Neurology and Psychiatry (NCNP), Tokyo, Japan. Electronic address: kitay@ncnp.go.jp.",JPN, Tokyo, National Center of Neurology and Psychiatry (NCNP)
+"Karabuk University, Faculty of Medicine, Department of Neurosurgery, Karabuk, Turkey.",TUR, Karabuk, Department of Neurosurgery
+"Department of Cardiology, Japanese Red Cross Musashino Hospital, Tokyo, Japan. Electronic address: tetsuo5672@yahoo.co.jp.",JPN, Tokyo, Japanese Red Cross Musashino Hospital
+"The University of Western Australia, 35 Stirling Highway, Perth, WA 6009, Australia. Electronic address: toby.richards@uwa.edu.au.",AUS, WA 6009, Perth
+"Office of Physician Well-Being and the Literature and Medicine Track, MedStar Health/Georgetown University School of Medicine, Washington, DC 20007, USA. Electronic address: dan.marchalik@gmail.com.",USA, DC 20007, Washington
+"Department of Neglected Tropical Diseases, World Health Organization, Bihar 842001, India. Electronic address: sumans@who.int.",IND, Bihar 842001, World Health Organization
+"Université de Reims Champagne-Ardenne, Faculté de Pharmacie, EA7510 EpidémioSurveillance et CirculAtion de Parasites dans les Environnements, and ANSES, Transmission VECtorielle et épidémiosurveillance de maladies PARasitaires, Reims, France; Centre Hospitalo-Universitaire, Laboratoire de Parasitologie-Mycologie, 51092 Reims, France. Electronic address: jerome.depaquit@univ-reims.fr.",FRA, 51092 Reims, Laboratoire de Parasitologie-Mycologie
+"Department of Pathogen Molecular Biology and Department of Clinical Research, London School of Hygiene and Tropical Medicine, London, UK; Médecins Sans Frontières, Delhi, India.",IND, Delhi, UK; Médecins Sans Frontières
+"Department of Parasitology and Mycology, Research Center for Noncommunicable Diseases, and Zoonoses Research Center, School of Medicine, Jahrom University of Medical Sciences, Jahrom 74148-46199, Iran. Electronic address: a.abdoli25@gmail.com.",IRN, Jahrom 74148-46199, Jahrom University of Medical Sciences
+"Department of Medicine, MedStar Washington Hospital Center, Washington, DC, USA.",USA, DC, Washington
+"Department of Clinical Immunology, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow, 226014, India. Electronic address: sakir005@gmail.com.",IND, 226014, Lucknow
+"B Department of Propaedeutic Surgery and Renal Transplant Center, Laikon General Hospital, National and Kapodistrian University of Athens, Athens 11527, Greece. Electronic address: actampaki@yahoo.com.",GRC, Athens 11527, National and Kapodistrian University of Athens
+"Division of Vascular and Endovascular Surgery, Boston Medical Center, Boston University School of Medicine, Boston, Mass. Electronic address: jeffrey.siracuse@bmc.org.",USA, Boston, Boston University School of Medicine
+"Division of Vascular Surgery, Stanford Hospital and Clinics, Stanford, Calif.",USA, Stanford, Stanford Hospital and Clinics
+"Department of Cardiology, Vascular Center, Guangdong Cardiovascular Institute, Guangdong Provincial Key Laboratory of Coronary Heart Disease Prevention, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, China.",CHN, Guangzhou, Guangdong Academy of Medical Sciences
+"Section of Vascular Surgery, Department of Surgery, Yale School of Medicine, New Haven, Conn.",USA, New Haven, Yale School of Medicine
+"First Unit of Vascular Surgery, IRCCS Policlinico San Donato, San Donato Milanese, Italy. Electronic address: danymazzak83@libero.it.",ITA, San Donato Milanese, IRCCS Policlinico San Donato
+"Division of Vascular Surgery, University of Ottawa, Ottawa, Ontario, Canada. Electronic address: mrockley@toh.ca.",CAN, Ontario, Ottawa
+"Division of Vascular Surgery, Department of Surgery, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands.",NLD, Groningen, University of Groningen
+"Section of Vascular Surgery, Department of Surgery, University of Michigan, Ann Arbor, Mich.",USA, Ann Arbor, University of Michigan
+"Division of Vascular Surgery, Department of Surgery, School of Medicine, The University of North Carolina at Chapel Hill, Chapel Hill, NC.",IND, Chapel Hill, The University of North Carolina at Chapel Hill
+"Johns Hopkins Bayview Vascular and Endovascular Research Center, Baltimore, Md.",USA, Baltimore,Johns Hopkins Bayview Vascular and Endovascular Research Center
+"Department of Clinical and Experimental Medicine, Linkoping University, SE-581 85 Linkoping, Sweden.",SWE, SE-581 85 Linkoping, Linkoping University
+"INSERM, Univ Rennes, INRA, Institut NuMeCan (Nutrition, Metabolisms and Cancer), Rennes, France.",FRA, Rennes, Metabolisms and Cancer)
+"Bloorview Research Institute, Holland Bloorview Kids Rehabilitation Hospital, Toronto, Ontario, Canada.",CAN, Ontario, Toronto
+"Clinical Trial Centre, University of Leipzig, Leipzig, Germany.",DEU, Leipzig, University of Leipzig
+"Obstetrics and Gynecology, Universidade Estadual de Campinas, Campinas, Brazil.",BRA, Campinas, Universidade Estadual de Campinas
+"School of Dentistry, Oral Health Centre of Western Australia, Crawley, Western Australia, Australia.",AUS, Western Australia, Crawley
+"Scottish Collaboration for Public Health Research and Policy, School of Health in Social Science, University of Edinburgh, Edinburgh, UK.",GBR, Edinburgh, University of Edinburgh
+"Department of Health Economics and Health Services Research, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",DEU, Hamburg, University Medical Center Hamburg-Eppendorf
+"Departments of Microbiology and Immunology, Carver College of Medicine, University of Iowa, Iowa City, IA.",USA, Iowa City, University of Iowa
+"Whitehead Institute, 455 Main Street, Cambridge, MA 02142.",IND, Cambridge, 455 Main Street
+"Institute of Neuroscience and Department of Biology, University of Oregon, Eugene, Oregon 97403.",USA, Eugene, University of Oregon
+"Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences, Beijing 100093, China.",CHN, Beijing 100093, Chinese Academy of Sciences
+"Department of Biological Sciences, University of Maryland, Baltimore, MD, USA.",USA, MD, Baltimore
+"IGF, Université de Montpellier, CNRS, INSERM, Montpellier, France (A.F., P.M.); Division of Medicinal Chemistry, Faculty of Science, Amsterdam Institute for Molecules, Medicines and Systems (AIMMS), Vrije Universiteit Amsterdam, Amsterdam, The Netherlands (A.Z., M.J.S.); Departamento de Biología Molecular and Centro de Biología Molecular ""Severo Ochoa"" (UAM-CSIC), Madrid, Spain (M.N., F.M.); CIBERCV, Instituto de Salud Carlos III, Madrid, Spain (M.N., F.M.); and Division of Physiology, Pharmacology and Neuroscience, Medical School, University of Nottingham, Queen's Medical Centre, Nottingham, United Kingdom (B.C., S.J.H.) amos.fumagalli@igf.cnrs.fr philippe.marin@igf.cnrs.fr.",DEU, United Kingdom (B.C., Nottingham
+"ActivX Biosciences, La Jolla, California.",USA, La Jolla,ActivX Biosciences
+"Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA.",USA, CT 06510, New Haven
+"Department of Internal Medicine, Bridgeport Hospital, Yale-New Haven Health System, Bridgeport, Connecticut, USA johnrossclarke@gmail.com.",USA, Connecticut, Bridgeport
+"Department of Physiology, Seoul National University College of Medicine, Seoul 03080, Korea.",KOR, Seoul 03080, Seoul National University College of Medicine
+"Department of Neurology, University Hospital of Wales, Cardiff, UK elizabeth.farnworth@tdh.org.nz.",GBR, Cardiff, University Hospital of Wales
+"McArdle Laboratory for Cancer Research, University of Wisconsin School of Medicine and Public Health, Madison, Wisconsin, USA megan.spurgeon@wisc.edu plambert@wisc.edu.",USA, Wisconsin, Madison
+"Centre National de la Recherche Scientifique (CNRS), Grenoble Institut National Polytechnique (INP), Techniques de l'Ingénierie Médicale et de la Complexité-Informatique, Mathématiques et Applications, Grenoble, (TIMC-IMAG), Université Grenoble Alpes, Grenoble, France.",FRA, Grenoble, Université Grenoble Alpes
+"Department of Botany, University of Hawai'i at Manoa, Honolulu, Hawaii, USA.",USA, Hawaii, Honolulu
+"Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet, Stockholm, Sweden.",SWE, Stockholm, Karolinska Institutet
+"Department of Cell and Molecular Biology, Science for Life Laboratory, Uppsala University, Uppsala, Sweden.",SWE, Uppsala, Uppsala University
+"Department of Microbiology and Immunology, Geisel School of Medicine, Dartmouth College, Lebanon, New Hampshire, USA.",USA, New Hampshire, Lebanon
+"Delaware Biotechnology Institute, University of Delaware, Newark, Delaware, USA.",USA, Delaware, Newark
+"Plant Pathology & Plant-Microbe Biology Section, School of Integrative Plant Science, Cornell University, Ithaca, New York, USA.",USA, New York, Ithaca
+"Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, Colorado, USA.",USA, Colorado, Fort Collins
+"Division of Molecular and Cellular Biology, Eunice Kennedy Shriver National Institute of Child Health and Human Development, Bethesda, Maryland, USA.",USA, Maryland, Bethesda
+"National Institute of Technology, Tiruchirappalli, Tamil Nadu, India.",IND, Tamil Nadu, Tiruchirappalli
+"CSIR-Institute of Genomics and Integrative Biology, Delhi 110 007, India, Laxmansm72@yahoo.com.",IND, Delhi 110 007,CSIR-Institute of Genomics and Integrative Biology
+"School of Biological Sciences, National Institute of Science Education and Research (NISER), HBNI, P.O. Bhimpur-Padanpur, Via Jatni, Dist. Khurda, Odisha 752 050, India.",IND, Odisha 752 050, Dist. Khurda
+"Department of Urology, First Affiliated Hospital, Medical College, Shihezi University, Shihezi Xinjiang 832000, China.",CHN, Shihezi Xinjiang 832000, Shihezi University
+"Key Laboratory of Jiangxi Province for the Systems Bio-medicine, Jiujiang Jiangxi 332000, China.",CHN, Jiujiang Jiangxi 332000,Key Laboratory of Jiangxi Province for the Systems Bio-medicine
+"Department of Anesthesiology, Xiangya Hospital, Central South University, Changsha 410008, China.",CHN, Changsha 410008, Central South University
+"Department of Respiratory, First Affiliated Hospital, Wannan Medical College, Wuhu Anhui 241001, China cxw0028@126.com.",CHN, Wuhu Anhui 241001, Wannan Medical College
+"Department of Dermatology, Second Hospital of Xi'an Jiaotong University, Xi'an 710004, China wyuanxa@163.com.",CHN, Xi'an 710004, Second Hospital of Xi'an Jiaotong University
+"Department of Head and Neck Surgery, Hunan Cancer Hospital/Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha 410013, China.",CHN, Changsha 410013, Central South University
+"Department of Reproductive Medical Center, Xiangya Hospital, Central South University, Changsha 410008, China.",CHN, Changsha 410008, Central South University
+"Department of Paediatrics, Aminu Kano Teaching Hospital, Kano, Nigeria.",NGA, Kano, Aminu Kano Teaching Hospital
+"Private Practice, Specialist in Pediatric Dentistry, Faculty of Dentistry, Hacettepe University, Ankara, Turkey.",TUR, Ankara, Hacettepe University
+"Department of Endocrinology and Metabolism, Kecioren Training and Research Hospital, Ankara, Turkey.",TUR, Ankara, Kecioren Training and Research Hospital
+"Department of Restorative Dentistry, Yeditepe University Faculty of Dentistry, Istanbul, Turkey.",TUR, Istanbul, Yeditepe University Faculty of Dentistry
+"Private Practice, Istanbul, Turkey.",TUR, Istanbul,Private Practice
+"Department of Radiology, Jiangsu Cancer Hospital and Jiangsu Institute of Cancer Research and The Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, Jiangsu, P. R. China.",CHN, Jiangsu, Nanjing
+"Department of Oral and Maxillofacial Surgery, Okan University, Faculty of Dentistry, Istanbul, Turkey.",TUR, Istanbul, Faculty of Dentistry
+"Department of Chemical Pathology, University College Hospital, Ibadan, Nigeria.",NGA, Ibadan, University College Hospital
+"Department of Community Medicine, College of Health Sciences, Ebonyi State University, Abakaliki, Nigeria.",NGA, Abakaliki, Ebonyi State University
+"NanoPhotonics Centre, Cavendish Laboratory, Department of Physics, JJ Thompson Avenue, University of Cambridge, Cambridge, CB3 0HE, UK.",GBR, CB3 0HE, Cambridge
+"CONACyT - Institute of Mathematics, Universidad Nacional Autónoma de México, Juriquilla, Querétaro, 76230, Mexico. mangulo@im.unam.mx.",MEX, 76230, Querétaro
+"ASTRE, INRA, CIRAD, University of Montpellier, Montpellier, 34398, France. reveillaud.j@gmail.com.",FRA, 34398, Montpellier
+"ZMB, University of Duisburg-Essen, Universitätstr. 2, 45117, Essen, Germany.",DEU, Essen, 45117
+"Department of Physics, Princeton University, Princeton, NJ, 08544, USA.",USA, 08544, NJ
+"Bioinformatics and Systems Biology Graduate Program, University of California, San Diego, La Jolla, CA, 92093, USA.",USA, 92093, CA
+"QIMR Berghofer Medical Research Institute, Brisbane, QLD, 4006, Australia. james.roberts@qimrberghofer.edu.au.",AUS, 4006, QLD
+"Section of Brain Function Information, Supportive Center for Brain Research, National Institute for Physiological Sciences, Aichi, 4448585, Japan. j.chikazoe@gmail.com.",JPN, 4448585, Aichi
+"The Faculty of Life Sciences and the Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat-Gan, 5290002, Israel.",ISR, 5290002, Ramat-Gan
+"Microbiology and Molecular Genetics (MMG) Program, Graduate Division of Biological and Biomedical Sciences, Emory University, Atlanta, GA, 30322, USA.",USA, 30322, GA
+"University of Bergen, Postboks 7800, 5020, Bergen, Norway. lene.sveen@nofima.no.",NOR, Bergen, 5020
+"Department of Medicine E, Sheba Medical Center, Tel Hashomer, Israel.",ISR, Tel Hashomer, Sheba Medical Center
+"Veterinary Integrative Biosciences, College of Veterinary Medicine and Biomedical Sciences, College Station, Texas, USA.",USA, Texas, College Station
+"University of Navarra, Department of Microbiology and Parasitology, Irunlarrea 1, 31008, Pamplona, Spain. rfespada2@gmail.com.",ESP, Pamplona, 31008
+"Planetary Science Institute, 1700 East Fort Lowell Road, Suite 106, Tucson, AZ, 85719-2395, USA. alexis@psi.edu.",USA, 85719-2395, AZ
+"Department of Bio and Brain Engineering, KAIST, Daejeon, 34141, Republic of Korea.",KOR, 34141, Daejeon
+"Wales Kidney Research Unit, School of Medicine, College of Biomedical & Life Sciences, Cardiff University, Heath Park Campus, Cardiff, CF14 4XN, UK.",GBR, CF14 4XN, Cardiff
+"Department of Medical Oncology, Fudan University Shanghai Cancer Center, Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, China, 200032.",CHN, China, Shanghai
+"Department of Biotechnology, Panjab University, 160014, Chandigarh, India.",IND, Chandigarh, 160014
+"Dyson School of Design Engineering, Imperial College London, South Kensington Campus, London, SW7 2AZ, UK. petros.siegkas@ntu.ac.uk.",GBR, SW7 2AZ, London
+"Section of Infectious Diseases, Taipei City Hospital, Taipei, Taiwan.",TWN, Taipei, Taipei City Hospital
+"Botany Department, Faculty of Science, Aswan University, Aswan, 81528, Egypt.",EGY, 81528, Aswan
+"Cancer Research Institute, Seoul National University College of Medicine, Seoul, Republic of Korea.",KOR, Seoul, Seoul National University College of Medicine
+"Department of Biology, University of Florence, Florence, Italy.",ITA, Florence, University of Florence
+"Tokyo Metropolitan Research Institute for Environmental Protection 1-7-5, Sinsuna, Koto-ku, Tokyo, 136-0075, Japan. hata-h@tokyokankyo.jp.",JPN, 136-0075, Tokyo
+"Department of Chemistry and Industrial Chemistry, University of Pisa, via Moruzzi, 13-56124, Pisa, Italy.",ITA, Pisa, 13-56124
+"Department of Experimental Psychology, Oxford University, Oxford, UK. thomas.akam@psy.ox.ac.uk.",GBR, Oxford, Oxford University
+"Ningbo Eye Hospital, 855 Min An Road, Ningbo, Zhejiang, 315040, China.",CHN, 315040, Zhejiang
+"Department of Civil Engineering, The University of Tokyo, Tokyo, Japan.",JPN, Tokyo, The University of Tokyo
+"Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029, New York, USA.",USA, New York, 10029
+"State Key Laboratory of Cell Biology, CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell Biology, Chinese Academy of Sciences, University of Chinese Academy of Sciences, 320 Yueyang Road, Shanghai, 200031, China.",CHN, 200031, Shanghai
+"Department of Radiation Physics, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA.",USA, Texas, Houston
+"Department of Psychiatry and Psychotherapy, Eberhard Karls University, Tübingen, Germany. stephan.mueller@med.uni-tuebingen.de.",DEU, Tübingen, Eberhard Karls University
+"Unit of Pathological Anatomy, University Hospital of Pisa, Pisa, Italy.",ITA, Pisa, University Hospital of Pisa
+"Department of Development and Regeneration, Cluster Woman and Child, Group Biomedical Sciences, KU Leuven University of Leuven, Leuven, Belgium.",BEL, Leuven, KU Leuven University of Leuven
+"Energy, Materials and Systems Group, University of Twente, 7500 AE, Enschede, The Netherlands.",NLD, Enschede, 7500 AE
+"Department of Materials Science and Engineering, Clemson University, Clemson, South Carolina, 29634, USA.",USA, 29634, South Carolina
+"Department of Chemistry, Qaemshahr Branch, Islamic Azad University, Qaemshahr, Iran.",IRN, Qaemshahr, Islamic Azad University
+"Departamento de Ciencias Ecológicas, Instituto de Ecología y Biodiversidad (IEB), Facultad de Ciencias, Universidad de Chile, Santiago, Chile.",CHL, Santiago, Universidad de Chile
+"Department of Radiation Oncology and Molecular Radiation Sciences, Johns Hopkins University, Baltimore, MD, USA. phan5@jhu.edu.",USA, MD, Baltimore
+"Department of Horticulture, Oregon State University, 4017 Agricultural and Life Sciences Building, Corvallis, OR, 97331, USA. entomologista@gmail.com.",USA, 97331, OR
+"Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan. okumura@eps.s.u-tokyo.ac.jp.",JPN, 113-0033, Tokyo
+"Department of Ocean Systems, NIOZ-Royal Netherlands Institute for Sea Research, and Utrecht University, Den Burg, The Netherlands.",NLD, Den Burg, and Utrecht University
+"International Center for Ecology, Meteorology, and Environment, Collaborative Innovation Center of Atmospheric Environment and Equipment Technology (AEET), School of Applied Meteorology, Nanjing University of Information Science & Technology, Nanjing, 210044, China.",CHN, 210044, Nanjing
+"CIIL- Institut Biologie de Lille, Inserm U1019, CNRS UMR 8204, Institut Pasteur Lille, Lille, France.",FRA, Lille, Institut Pasteur Lille
+"Department of Molecular Immune and Cell Biology, Life and Medical Sciences (LIMES) Institute, University of Bonn, Bonn, Germany.",DEU, Bonn, University of Bonn
+"Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences (CAAS), Beijing, 100081, P.R. China.",CHN, 100081, Beijing
+"Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA.",USA, PA, Pittsburgh
+"Servicio de Microbiología and Unidad de Investigación, Hospital Universitari Son Espases-Institut de Investigació Sanitària de Balears (IdISBa), Palma, Spain.",ESP, Palma, Hospital Universitari Son Espases-Institut de Investigació Sanitària de Balears (IdISBa)
+"Department of Food, Environmental and Nutritional Sciences (DeFENS), University of Milan, 20133, Milan, Italy. camilla.cattaneo@unimi.it.",ITA, Milan, 20133
+"Department of Cardiovascular Research, Mario Negri Institute for Pharmacological Research IRCCS, Milan, Italy. russilar9@gmail.com.",ITA, Milan, Mario Negri Institute for Pharmacological Research IRCCS
+"Biomedical Center Munich (BMC), Cell Biology, Anatomy III, Ludwig-Maximilians-Universität München, 82152, Planegg, Martinsried, Germany.",DEU, Martinsried, Planegg
+"VA Boston Healthcare System and Harvard Medical School, Dept. of Psychiatry, West Roxbury, MA, USA.",USA, MA, West Roxbury
+"Synthetic Biology Group, Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, MA, USA.",USA, MA, Cambridge
+"Ehlers-Danlos Syndrome National Diagnostic Service London, North West Thames Regional Genetics Service, London North West Healthcare University NHS Trust, Harrow, Middlesex, UK. neeti.ghali@nhs.net.",GBR, Middlesex, Harrow
+"Nature Reviews Gastroenterology & Hepatology, . nrgasthep@springernature.com.",,,
+"Nature Reviews Gastroenterology & Hepatology, . nrgasthep@springernature.com.",,,
+"Nature Reviews Gastroenterology & Hepatology, . nrgasthep@springernature.com.",,,
+"Nature Reviews Gastroenterology & Hepatology, . Iain.dickson@nature.com.",,,
+"Nature Reviews Rheumatology, . nrrheum@nature.com.",,,
+"National Institute of Public Health-National Institute of Hygiene, Department of Food Safety, Chocimska str. 24, Warsaw, Poland",POL, Warsaw, Chocimska str. 24
+"Department of Human Nutrition, Faculty of Food Technology, University of Agriculture in Krakow, Balicka 122, 30-149 Krakow, Poland",POL, 30-149 Krakow, Balicka 122
+"University of Gdańsk, Environmental Chemistry & Ecotoxicology, 80-308 Gdańsk, Poland",POL, 80-308 Gdańsk, Environmental Chemistry & Ecotoxicology
+"Department of Human Nutrition, Faculty of Public Health in Bytom, Medical University of Silesia in Katowice, Poland",POL, Medical University of Silesia in Katowice, Faculty of Public Health in Bytom
+"Section of Horticultural Economics, Faculty of Horticulture, Biotechnology and Landscape Architecture, Warsaw University of Life Sciences (SGGW-WULS), 159C Nowoursynowska Street, 02-787 Warsaw, Poland",POL, 02-787 Warsaw, 159C Nowoursynowska Street
+"Department of Dietetics and Clinical Nutrition, Faculty of Health Sciences, Medical University of Bialystok, Poland",POL, Medical University of Bialystok, Faculty of Health Sciences
+"West Pomeranian University of Technology in Szczecin, Faculty of Food Sciences and Fisheries, Department of Human Nutrition Physiology, al. Piastów 17, 70-310 Szczecin, Poland",POL, 70-310 Szczecin, al. Piastów 17
+"Department of Environmental Medicine and Epidemiology, School of Medicine with the Division of Dentistry in Zabrze, Medical University of Silesia in Katowice, Poland",POL, Medical University of Silesia in Katowice, School of Medicine with the Division of Dentistry in Zabrze
+"Department of Biochemistry and Human Nutrition, Pomeranian Medical University in Szczecin, Poland",POL, Pomeranian Medical University in Szczecin,Department of Biochemistry and Human Nutrition
+"Institute of Translational Medicine, Nanchang University, Nanchang, Jiangxi 330031, China.",CHN, Jiangxi 330031, Nanchang
+"Infection, Immunity, Inflammation Programme, UCL Great Ormond Street Institute of Child Health, London, United Kingdom.",GBR, London, UCL Great Ormond Street Institute of Child Health
+"Department of Periodontology, Justus-Liebig-University of Giessen, Giessen, Germany.",DEU, Giessen, Justus-Liebig-University of Giessen
+"Department of Vaccine Discovery, La Jolla Institute for Immunology, La Jolla, CA, United States.",USA, CA, La Jolla
+"Roy J. Carver Department of Biochemistry, Biophysics, and Molecular Biology, Iowa State University, Ames, IA, United States.",USA, IA, Ames
+"Laboratory of Immunology, National Eye Institute, National Institutes of Health, Bethesda, MD, United States.",USA, MD, Bethesda
+"Division of Infectious Diseases, Allergy and Immunology, Department of Internal Medicine, Saint Louis University, St. Louis, MO, United States.",USA, MO, St. Louis
+"School of Environment and Life Sciences, University of Salford, Salford, United Kingdom.",GBR, Salford, University of Salford
+"Department of Biological Science at College of Natural Science, Sungkyunkwan University, Suwon, South Korea.",KOR, Suwon, Sungkyunkwan University
+"Department of Microbiology, Immunology and Infectious Diseases, University of Calgary, Calgary, AB, Canada.",CAN, AB, Calgary
+"School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, China.",CHN, Shanghai, Shanghai Jiao Tong University
+"Department of Orthopaedic Surgery, Konkuk University Medical Center, Seoul, Korea.",KOR, Seoul, Konkuk University Medical Center
+"Department of Orthopaedics, Lilavati Hospital and Research Centre, Mumbai, India.",IND, Mumbai, Lilavati Hospital and Research Centre
+"Spine Center, Barun Hospital, Jinju, Korea.",KOR, Jinju, Barun Hospital
+"Department of Orthopaedic Surgery, Wonkwang University Hospital, Iksan, Korea.",KOR, Iksan, Wonkwang University Hospital
+"Department of Orthopedic Surgery, Seoul National University Hospital, Seoul National University College of Medicine, Seoul, Korea.",KOR, Seoul, Seoul National University College of Medicine
+"Department of Orthopaedic Surgery, Eulji Hospital, Eulji University School of Medicine, Seoul, Korea.",KOR, Seoul, Eulji University School of Medicine
+"Department of Orthopedic Surgery, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Korea.",KOR, Seongnam, Seoul National University College of Medicine
+"Department of Orthopedic Surgery, Wonju Severance Christian Hospital, Yonsei University Wonju College of Medicine, Wonju, Korea.",KOR, Wonju, Yonsei University Wonju College of Medicine
+"Foot and Ankle Service, KT Lee's Orthopedic Hospital, Seoul, Korea.",KOR, Seoul, KT Lee's Orthopedic Hospital
+"Department of Orthopedic Surgery, Seoul Red Cross Hospital, Seoul, Korea.",KOR, Seoul, Seoul Red Cross Hospital
+"Division of Neurophysiology, Ulm University, Germany.",DEU, Ulm University,Division of Neurophysiology
+"Department of Medicine, University of Padua, Italy.",ITA, University of Padua,Department of Medicine
+"Dokuz Eylül University, School of Medicine, Department of Pediatrics, Division of Child Neurology, İzmir, Turkey.",TUR, İzmir, Division of Child Neurology
+"Division of Neurology, Department of Neurosciences, King Faisal Specialist Hospital and Research Centre, Riyadh, Saudi Arabia.",SAU, Riyadh, King Faisal Specialist Hospital and Research Centre
+"Department of Cardiology, University of Campania ""L. Vanvitelli"", Monaldi Hospital, Naples, Italy.",ITA, Naples, Monaldi Hospital
+"Rapid Prototype & Electrospinning Lab, Department of Metallurgical and Materials Engineering, DIAT (DU), Ministry of Defence, Girinagar, Pune-411025, India. meetkbs@gmail.com.",IND, Pune-411025, Girinagar
+"Institute of High-Temperature Electrochemistry, Ural Branch of the Russian Academy of Sciences, Ekaterinburg, Russia. lev.putilov@gmail.com.",RUS, Ekaterinburg, Ural Branch of the Russian Academy of Sciences
+"Department of Applied Chemistry, Graduate School of Engineering, Hiroshima University, 1-4-1 Kagamiyama, Higashi-Hiroshima 739-8527, Japan.",JPN, Higashi-Hiroshima 739-8527, 1-4-1 Kagamiyama
+"College of Chemistry, Chemical and Environmental Engineering, Henan University of Technology, Zhengzhou, Henan 450001, P. R. China. taoguo@haut.edu.cn.",CHN, Henan 450001, Zhengzhou
+"Department of Cardiothoracic Surgery, Sahlgrenska University Hospital, Gothenburg, Sweden.",SWE, Gothenburg, Sahlgrenska University Hospital
+"Multidisciplinary Center for Inflammatory Bowel Diseases, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.",USA, North Carolina, Chapel Hill
+"Institute of Clinical Pharmacology, Santa Maria della Misericordia University Hospital, ASUIUD, Udine, Italy.",ITA, Udine, ASUIUD
