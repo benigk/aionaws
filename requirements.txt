@@ -1,4 +1,3 @@
--e git+ssh://git@github.com/softwarequokka/aionaws.git@bfc0979b09244f58237fff404cd0c5df4b098a75#egg=backend
 Django==4.0.3
 gunicorn==20.1.0
 py4j==0.10.9.2
