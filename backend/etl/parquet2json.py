@@ -1,5 +1,5 @@
-# This script is to convert data from parquet to generate data in format of json to be displayed online
 """
+This script is to convert data from parquet to generate data in format of json to be displayed online
 input
 
 Data structure of json file
@@ -20,13 +20,11 @@ Data structure of json file
     ]
 }
 """
-
-
 import argparse
-import country_converter as coco
 import json
-
 from collections import Counter
+
+import country_converter as coco
 from pyspark import SparkContext
 from pyspark.sql import SparkSession
 
@@ -48,14 +46,13 @@ spark = SparkSession(sc)
 
 df = spark.read.parquet(args.input_path)
 
-df_validity = df.filter(df.validity == True)
+df_validity = df.filter(df.validity is True)
 
 data_countries = [e for row in df_validity.select(
-    'country').collect() for e in list(row)]
+    "country").collect() for e in list(row)]
 
 # get the institutions of the first author
-data_inst = [e for e in df_validity.select(
-    'firstInst').collect()]
+data_inst = list(df_validity.select("firstInst").collect())
 
 
 c = Counter(data_countries)
@@ -63,29 +60,24 @@ country_list = list(c.keys())
 
 
 # convert country name to country code
-name2iso2 = {country_name: country_code for country_name, country_code in zip(
-    country_list,
-    coco.convert(names=country_list, to="ISO2")
-)}
+name2iso2 = dict(zip(country_list, coco.convert(names=country_list, to="ISO2")))
 
 data = {
-    'countryData': {
+    "countryData": {
         name2iso2.get(k, k): {
-            'countryName': k,
-            'paperCount': c.get(k)
+            "countryName": k,
+            "paperCount": c.get(k)
         } for k in c
     }
 }
 
-data_location = [
-    {'institution': e[0]} for e in data_inst
-]
+data_location = [{"institution": e[0]} for e in data_inst]
 
 
 # output data location
-with open(args.output_filename, 'w') as f:
+with open(args.output_filename, "w", encoding="utf-8") as f:
     json.dump(data_location, f, indent=4)
 
 # output data_country
-with open(args.output_filename, 'w') as f:
+with open(args.output_filename, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4)
