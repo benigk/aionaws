@@ -3,21 +3,23 @@ import csv
 import logging
 import json
 import re
+
 import pycountry
 import requests
+
+from mordecai import Geoparser
 from pyspark import SparkContext
 from pyspark.sql import SparkSession
-from mordecai import Geoparser
 
 
 def extract_location(input_string):
     """simple extraction without parsing location"""
     res = []
-    locations = input_string.split(',')
+    location_list = input_string.split(',')
     i = -1
     # get rid of email address"
     country = re.sub(
-        r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '', locations[-1])
+        r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '', location_list[-1])
     country = re.sub(r'Electronic address: ', '', country)
     # get rid of space and .
     country = country.rstrip('.').strip().rstrip('.').strip()
@@ -25,23 +27,23 @@ def extract_location(input_string):
         res.append(country)
     else:
         try:
-            country = locations[-2]
+            country = location_list[-2]
             country = country.rstrip('.').strip().rstrip('.').strip()
             res.append(country)
             i = -2
         except IndexError:
             return None, None, None
 
-    if len(locations) > 3:
-        for location in reversed(locations[i-2:i]):
+    if len(location_list) > 3:
+        for location in reversed(location_list[i-2:i]):
             res.append(location)
         return res[0], res[1], res[2]
-    else:
-        for i in reversed(range(len(locations[:i]))):
-            res.append(locations[i])
-        while len(res) < 3:
-            res.append(None)
-        return res[0], res[1], res[2]
+
+    for i in reversed(range(len(location_list[:i]))):
+        res.append(location_list[i])
+    while len(res) < 3:
+        res.append(None)
+    return res[0], res[1], res[2]
 
 
 geo = Geoparser()
@@ -54,15 +56,15 @@ country_json = {}
 locations = []
 
 
-def extract_coordinates(input_string, level=""):
+def extract_coordinates(input_string):
     """parse the location and return corresponding coordinates"""
     location = geo.geoparse(input_string)
-    try:
+    try:  # pylint: disable=too-many-try-statements
         if len(location) == 0 or location[0]['country_conf'] < 0.6:
             url = 'http://nominatim.openstreetmap.org/search'
             params = {'q': input_string, 'format': 'json',
                       'addressdetails': 1, 'limit': 1, 'accept-language': 'en'}
-            r = requests.get(url, params=params)
+            r = requests.get(url, params=params, timeout=60)
             results = r.json()
             country_code = pycountry.countries.get(
                 alpha_2=results[0]['address']['country_code']).alpha_3
@@ -90,13 +92,13 @@ def read_parquet():
 
     df = spark.read.parquet("../data/600k.parquet")
 
-    df_valid = df.filter(df.validity == True)
+    df_valid = df.filter(df.validity is True)
 
     df_inst = list(df_valid.select(
         'firstInst').collect())
 
     for inst in df_inst:
-        try:
+        try:  # pylint: disable=too-many-try-statements
             loc = extract_location(inst['firstInst'])
 
             if loc[0] not in country_dict:
